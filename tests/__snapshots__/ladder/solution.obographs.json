@@ -1,0 +1,234 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "0.5"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "L0"
+        },
+        {
+          "id": "L1"
+        },
+        {
+          "id": "L2"
+        },
+        {
+          "id": "L3"
+        },
+        {
+          "id": "L4"
+        },
+        {
+          "id": "R0"
+        },
+        {
+          "id": "R1"
+        },
+        {
+          "id": "R2"
+        },
+        {
+          "id": "R3"
+        },
+        {
+          "id": "R4"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "R4",
+          "pred": "is_a",
+          "obj": "R3",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R3",
+          "pred": "is_a",
+          "obj": "R2",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R2",
+          "pred": "is_a",
+          "obj": "R1",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R1",
+          "pred": "is_a",
+          "obj": "R0",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R3",
+          "pred": "owl:equivalentClass",
+          "obj": "R3",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R2",
+          "pred": "owl:equivalentClass",
+          "obj": "R2",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R1",
+          "pred": "owl:equivalentClass",
+          "obj": "R1",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "R0",
+          "pred": "owl:equivalentClass",
+          "obj": "R0",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.1"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "L4",
+          "pred": "is_a",
+          "obj": "L3"
+        },
+        {
+          "sub": "L3",
+          "pred": "is_a",
+          "obj": "L2"
+        },
+        {
+          "sub": "L2",
+          "pred": "is_a",
+          "obj": "L1"
+        },
+        {
+          "sub": "L1",
+          "pred": "is_a",
+          "obj": "L0"
+        },
+        {
+          "sub": "L0",
+          "pred": "owl:equivalentClass",
+          "obj": "R0"
+        },
+        {
+          "sub": "L1",
+          "pred": "owl:equivalentClass",
+          "obj": "R1"
+        },
+        {
+          "sub": "L2",
+          "pred": "owl:equivalentClass",
+          "obj": "R2"
+        },
+        {
+          "sub": "L3",
+          "pred": "owl:equivalentClass",
+          "obj": "R3"
+        },
+        {
+          "sub": "L4",
+          "pred": "owl:equivalentClass",
+          "obj": "R4"
+        }
+      ]
+    }
+  ]
+}

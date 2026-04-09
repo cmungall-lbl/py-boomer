@@ -1,0 +1,62 @@
+#mapping_set_id: boomer:solution
+#mapping_tool: BOOMER
+#mapping_date: 2026-03-04
+#curie_map:
+#  BTO: http://purl.obolibrary.org/obo/BTO_
+#  CL: http://purl.obolibrary.org/obo/CL_
+#  FBbt: http://purl.obolibrary.org/obo/FBbt_
+#  WBbt: http://purl.obolibrary.org/obo/WBbt_
+#  ZFA: http://purl.obolibrary.org/obo/ZFA_
+#  semapv: https://w3id.org/semapv/vocab/
+#  skos: http://www.w3.org/2004/02/skos/core#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence
+CL:0000255	eukaryotic cell	skos:exactMatch	MESH:D005057		semapv:CompositeMatching	0.7
+CL:0000066	epithelial cell	skos:exactMatch	BTO:0000414	epithelial cell	semapv:CompositeMatching	0.9423076923076933
+CL:0000066	epithelial cell	skos:exactMatch	CALOHA:TS-2026		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	CARO:0000077		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	FBbt:00000124		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	FMA:66768		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	WBbt:0003672		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	ZFA:0009034		semapv:CompositeMatching	0.7000000000000036
+CL:0000066	epithelial cell	skos:exactMatch	BTO:0000414	epithelial cell	semapv:CompositeMatching	0.9423076923076933
+CL:0002077	ecto-epithelial cell	skos:exactMatch	FMA:69074		semapv:CompositeMatching	0.7
+CL:0002077	ecto-epithelial cell	skos:exactMatch	ZFA:0009385		semapv:CompositeMatching	0.7
+CL:0000067	ciliated epithelial cell	skos:exactMatch	FMA:70605		semapv:CompositeMatching	0.7
+CL:0000067	ciliated epithelial cell	skos:exactMatch	ZFA:0009035		semapv:CompositeMatching	0.7
+CL:0000068	duct epithelial cell	skos:exactMatch	ZFA:0009372		semapv:CompositeMatching	0.7
+CL:0002078	meso-epithelial cell	skos:exactMatch	FMA:69076		semapv:CompositeMatching	0.7
+CL:0002078	meso-epithelial cell	skos:exactMatch	ZFA:0009388		semapv:CompositeMatching	0.7
+CL:0000075	columnar/cuboidal epithelial cell	skos:exactMatch	ZFA:0009038		semapv:CompositeMatching	0.7
+CL:0000076	squamous epithelial cell	skos:exactMatch	CALOHA:TS-1249		semapv:CompositeMatching	0.7
+CL:0000076	squamous epithelial cell	skos:exactMatch	ZFA:0009039		semapv:CompositeMatching	0.7
+CL:0000079	stratified epithelial cell	skos:exactMatch	ZFA:0009042		semapv:CompositeMatching	0.7
+CL:0002076	endo-epithelial cell	skos:exactMatch	FMA:69075		semapv:CompositeMatching	0.7
+CL:0002076	endo-epithelial cell	skos:exactMatch	ZFA:0009383		semapv:CompositeMatching	0.7
+CL:0000098	sensory epithelial cell	skos:exactMatch	BTO:0004301		semapv:CompositeMatching	0.7
+CL:0000098	sensory epithelial cell	skos:exactMatch	ZFA:0009050		semapv:CompositeMatching	0.7
+CL:0000182	hepatocyte	skos:exactMatch	BTO:0000575		semapv:CompositeMatching	0.9423076923076922
+CL:0000182	hepatocyte	skos:exactMatch	CALOHA:TS-0454		semapv:CompositeMatching	0.7
+CL:0000182	hepatocyte	skos:exactMatch	FMA:14515		semapv:CompositeMatching	0.7
+CL:0000182	hepatocyte	skos:exactMatch	ZFA:0009111		semapv:CompositeMatching	0.7
+CL:0000182	hepatocyte	skos:exactMatch	BTO:0000575		semapv:CompositeMatching	0.9423076923076922
+CL:0000244	transitional epithelial cell	skos:exactMatch	FMA:66778		semapv:CompositeMatching	0.7
+CL:0000244	transitional epithelial cell	skos:exactMatch	ZFA:0009148		semapv:CompositeMatching	0.7
+CL:0000411	Caenorhabditis hypodermal cell	skos:exactMatch	WBbt:0007846		semapv:CompositeMatching	0.7
+CL:0000411	Caenorhabditis hypodermal cell	skos:exactMatch	ZFA:0009196		semapv:CompositeMatching	0.7
+CL:0000418	arcade cell	skos:exactMatch	WBbt:0005793		semapv:CompositeMatching	0.7
+CL:0000420	syncytial epithelial cell	skos:exactMatch	Wikipedia:Syncytium		semapv:CompositeMatching	0.7
+CL:0002204	tuft cell	skos:exactMatch	FMA:67978		semapv:CompositeMatching	0.7
+CL:0002222	vertebrate lens cell	skos:exactMatch	FMA:70950		semapv:CompositeMatching	0.7
+CL:0002327	mammary gland epithelial cell	skos:exactMatch	BTO:0004300		semapv:CompositeMatching	0.7
+CL:0002518	kidney epithelial cell	skos:exactMatch	KUPO:0001019		semapv:CompositeMatching	0.7
+CL:0002518	kidney epithelial cell	skos:exactMatch	ZFA:0009374		semapv:CompositeMatching	0.7
+CL:0002586	retinal pigment epithelial cell	skos:exactMatch	BTO:0004910		semapv:CompositeMatching	0.7
+CL:0002586	retinal pigment epithelial cell	skos:exactMatch	FMA:75802		semapv:CompositeMatching	0.7
+CL:0005006	ionocyte	skos:exactMatch	ZFA:0005323		semapv:CompositeMatching	0.7
+CL:0008026	open tracheal system tracheocyte	skos:exactMatch	FBbt:00005038		semapv:CompositeMatching	0.7
+CL:1000296	epithelial cell of urethra	skos:exactMatch	FMA:256165		semapv:CompositeMatching	0.7
+CL:1000415	epithelial cell of gallbladder	skos:exactMatch	FMA:67780		semapv:CompositeMatching	0.7
+CL:1000432	conjunctival epithelial cell	skos:exactMatch	FMA:70552		semapv:CompositeMatching	0.7
+CL:1000433	epithelial cell of lacrimal canaliculus	skos:exactMatch	FMA:70553		semapv:CompositeMatching	0.7
+CL:1000434	epithelial cell of external acoustic meatus	skos:exactMatch	FMA:70555		semapv:CompositeMatching	0.7
+CL:1000441	epithelial cell of viscerocranial mucosa	skos:exactMatch	FMA:70583		semapv:CompositeMatching	0.7

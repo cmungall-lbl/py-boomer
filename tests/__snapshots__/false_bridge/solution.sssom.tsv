@@ -1,0 +1,25 @@
+#mapping_set_id: boomer:solution
+#mapping_tool: BOOMER
+#mapping_date: 2026-03-05
+#curie_map:
+#  semapv: https://w3id.org/semapv/vocab/
+#  skos: http://www.w3.org/2004/02/skos/core#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence
+A		skos:exactMatch	B		semapv:CompositeMatching	1.0
+A		skos:exactMatch	C		semapv:CompositeMatching	1.0
+A		skos:exactMatch	D		semapv:CompositeMatching	1.0
+B		skos:exactMatch	C		semapv:CompositeMatching	1.0
+B		skos:exactMatch	D		semapv:CompositeMatching	1.0
+C		skos:exactMatch	D		semapv:CompositeMatching	1.0
+E		skos:exactMatch	F		semapv:CompositeMatching	1.0
+E		skos:exactMatch	G		semapv:CompositeMatching	1.0
+E		skos:exactMatch	H		semapv:CompositeMatching	1.0
+F		skos:exactMatch	G		semapv:CompositeMatching	1.0
+F		skos:exactMatch	H		semapv:CompositeMatching	1.0
+G		skos:exactMatch	H		semapv:CompositeMatching	1.0
+X1		skos:exactMatch	X2		semapv:CompositeMatching	1.0
+X2		skos:exactMatch	X3		semapv:CompositeMatching	1.0
+X3		skos:exactMatch	X4		semapv:CompositeMatching	1.0
+X5		skos:exactMatch	X6		semapv:CompositeMatching	1.0
+X6		skos:exactMatch	X7		semapv:CompositeMatching	1.0
+X7		skos:exactMatch	X8		semapv:CompositeMatching	1.0

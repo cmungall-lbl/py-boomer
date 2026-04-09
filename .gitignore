@@ -1,0 +1,27 @@
+.idea
+analysis/brain/results
+icd10cm
+site/
+
+.ipynb_checkpoints/
+LOG
+tmp/
+tests/__snapshots__/*/components/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Worktrees
+.worktrees/
+
+# Downloaded ontology files and large intermediates (regenerated at runtime)
+docs/tutorial/real-world-alignment-files/*.obo
+docs/tutorial/real-world-alignment-files/merged.yaml

@@ -1,0 +1,102 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "0.8999999999999999"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "Canus"
+        },
+        {
+          "id": "Felix"
+        },
+        {
+          "id": "Mammalia"
+        },
+        {
+          "id": "cat"
+        },
+        {
+          "id": "dog"
+        },
+        {
+          "id": "furry_animal"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "cat",
+          "pred": "owl:equivalentClass",
+          "obj": "Felix",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "dog",
+          "pred": "owl:equivalentClass",
+          "obj": "Canus",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "furry_animal",
+          "pred": "owl:equivalentClass",
+          "obj": "Mammalia",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Felix",
+          "pred": "is_a",
+          "obj": "Mammalia"
+        },
+        {
+          "sub": "Canus",
+          "pred": "is_a",
+          "obj": "Mammalia"
+        }
+      ]
+    }
+  ]
+}

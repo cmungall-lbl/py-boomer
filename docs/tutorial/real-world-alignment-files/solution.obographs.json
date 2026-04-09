@@ -1,0 +1,3329 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "1.642809059088352e-05"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "366"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "BFO:0000002"
+        },
+        {
+          "id": "BTO:0000414",
+          "lbl": "epithelial cell"
+        },
+        {
+          "id": "BTO:0000575"
+        },
+        {
+          "id": "BTO:0001514"
+        },
+        {
+          "id": "BTO:0001540"
+        },
+        {
+          "id": "BTO:0001663"
+        },
+        {
+          "id": "BTO:0002295"
+        },
+        {
+          "id": "BTO:0002309"
+        },
+        {
+          "id": "BTO:0002484"
+        },
+        {
+          "id": "BTO:0003736"
+        },
+        {
+          "id": "BTO:0004300"
+        },
+        {
+          "id": "BTO:0004301"
+        },
+        {
+          "id": "BTO:0004910"
+        },
+        {
+          "id": "CALOHA:TS-0454"
+        },
+        {
+          "id": "CALOHA:TS-1249"
+        },
+        {
+          "id": "CALOHA:TS-2026"
+        },
+        {
+          "id": "CARO:0000077"
+        },
+        {
+          "id": "CL:0000000"
+        },
+        {
+          "id": "CL:0000018"
+        },
+        {
+          "id": "CL:0000019"
+        },
+        {
+          "id": "CL:0000021"
+        },
+        {
+          "id": "CL:0000026"
+        },
+        {
+          "id": "CL:0000032"
+        },
+        {
+          "id": "CL:0000034"
+        },
+        {
+          "id": "CL:0000059"
+        },
+        {
+          "id": "CL:0000064"
+        },
+        {
+          "id": "CL:0000065"
+        },
+        {
+          "id": "CL:0000066",
+          "lbl": "epithelial cell"
+        },
+        {
+          "id": "CL:0000067",
+          "lbl": "ciliated epithelial cell"
+        },
+        {
+          "id": "CL:0000068",
+          "lbl": "duct epithelial cell"
+        },
+        {
+          "id": "CL:0000069"
+        },
+        {
+          "id": "CL:0000072"
+        },
+        {
+          "id": "CL:0000075",
+          "lbl": "columnar/cuboidal epithelial cell"
+        },
+        {
+          "id": "CL:0000076",
+          "lbl": "squamous epithelial cell"
+        },
+        {
+          "id": "CL:0000077"
+        },
+        {
+          "id": "CL:0000078"
+        },
+        {
+          "id": "CL:0000079",
+          "lbl": "stratified epithelial cell"
+        },
+        {
+          "id": "CL:0000080"
+        },
+        {
+          "id": "CL:0000083"
+        },
+        {
+          "id": "CL:0000098",
+          "lbl": "sensory epithelial cell"
+        },
+        {
+          "id": "CL:0000115"
+        },
+        {
+          "id": "CL:0000146"
+        },
+        {
+          "id": "CL:0000148"
+        },
+        {
+          "id": "CL:0000149"
+        },
+        {
+          "id": "CL:0000150"
+        },
+        {
+          "id": "CL:0000151"
+        },
+        {
+          "id": "CL:0000152"
+        },
+        {
+          "id": "CL:0000160"
+        },
+        {
+          "id": "CL:0000163"
+        },
+        {
+          "id": "CL:0000164"
+        },
+        {
+          "id": "CL:0000165"
+        },
+        {
+          "id": "CL:0000168"
+        },
+        {
+          "id": "CL:0000179"
+        },
+        {
+          "id": "CL:0000182",
+          "lbl": "hepatocyte"
+        },
+        {
+          "id": "CL:0000185"
+        },
+        {
+          "id": "CL:0000187"
+        },
+        {
+          "id": "CL:0000188"
+        },
+        {
+          "id": "CL:0000197"
+        },
+        {
+          "id": "CL:0000209"
+        },
+        {
+          "id": "CL:0000214"
+        },
+        {
+          "id": "CL:0000216"
+        },
+        {
+          "id": "CL:0000221"
+        },
+        {
+          "id": "CL:0000222"
+        },
+        {
+          "id": "CL:0000223"
+        },
+        {
+          "id": "CL:0000226"
+        },
+        {
+          "id": "CL:0000228"
+        },
+        {
+          "id": "CL:0000237"
+        },
+        {
+          "id": "CL:0000239"
+        },
+        {
+          "id": "CL:0000240"
+        },
+        {
+          "id": "CL:0000241"
+        },
+        {
+          "id": "CL:0000242"
+        },
+        {
+          "id": "CL:0000244",
+          "lbl": "transitional epithelial cell"
+        },
+        {
+          "id": "CL:0000255",
+          "lbl": "eukaryotic cell"
+        },
+        {
+          "id": "CL:0000257"
+        },
+        {
+          "id": "CL:0000306"
+        },
+        {
+          "id": "CL:0000327"
+        },
+        {
+          "id": "CL:0000342"
+        },
+        {
+          "id": "CL:0000345"
+        },
+        {
+          "id": "CL:0000347"
+        },
+        {
+          "id": "CL:0000348"
+        },
+        {
+          "id": "CL:0000349"
+        },
+        {
+          "id": "CL:0000360"
+        },
+        {
+          "id": "CL:0000361"
+        },
+        {
+          "id": "CL:0000365"
+        },
+        {
+          "id": "CL:0000382"
+        },
+        {
+          "id": "CL:0000387"
+        },
+        {
+          "id": "CL:0000389"
+        },
+        {
+          "id": "CL:0000407"
+        },
+        {
+          "id": "CL:0000411",
+          "lbl": "Caenorhabditis hypodermal cell"
+        },
+        {
+          "id": "CL:0000417"
+        },
+        {
+          "id": "CL:0000418",
+          "lbl": "arcade cell"
+        },
+        {
+          "id": "CL:0000420",
+          "lbl": "syncytial epithelial cell"
+        },
+        {
+          "id": "CL:0000425"
+        },
+        {
+          "id": "CL:0000430"
+        },
+        {
+          "id": "CL:0000431"
+        },
+        {
+          "id": "CL:0000434"
+        },
+        {
+          "id": "CL:0000436"
+        },
+        {
+          "id": "CL:0000477"
+        },
+        {
+          "id": "CL:0000487"
+        },
+        {
+          "id": "CL:0000500",
+          "lbl": "follicular epithelial cell"
+        },
+        {
+          "id": "CL:0000517"
+        },
+        {
+          "id": "CL:0000518"
+        },
+        {
+          "id": "CL:0000520"
+        },
+        {
+          "id": "CL:0000521"
+        },
+        {
+          "id": "CL:0000571"
+        },
+        {
+          "id": "CL:0000574"
+        },
+        {
+          "id": "CL:0000575"
+        },
+        {
+          "id": "CL:0000618"
+        },
+        {
+          "id": "CL:0000656"
+        },
+        {
+          "id": "CL:0000657"
+        },
+        {
+          "id": "CL:0000658",
+          "lbl": "cuticle secreting cell"
+        },
+        {
+          "id": "CL:0000659"
+        },
+        {
+          "id": "CL:0000677"
+        },
+        {
+          "id": "CL:0000686"
+        },
+        {
+          "id": "CL:0000710"
+        },
+        {
+          "id": "CL:0000722"
+        },
+        {
+          "id": "CL:0000730",
+          "lbl": "leading edge cell"
+        },
+        {
+          "id": "CL:0000731"
+        },
+        {
+          "id": "CL:0000738"
+        },
+        {
+          "id": "CL:0000747"
+        },
+        {
+          "id": "CL:0000763"
+        },
+        {
+          "id": "CL:0000837"
+        },
+        {
+          "id": "CL:0000846",
+          "lbl": "vestibular dark cell"
+        },
+        {
+          "id": "CL:0000851"
+        },
+        {
+          "id": "CL:0000852"
+        },
+        {
+          "id": "CL:0000892"
+        },
+        {
+          "id": "CL:0001035"
+        },
+        {
+          "id": "CL:0002031"
+        },
+        {
+          "id": "CL:0002032"
+        },
+        {
+          "id": "CL:0002062"
+        },
+        {
+          "id": "CL:0002075"
+        },
+        {
+          "id": "CL:0002076",
+          "lbl": "endo-epithelial cell"
+        },
+        {
+          "id": "CL:0002077",
+          "lbl": "ecto-epithelial cell"
+        },
+        {
+          "id": "CL:0002078",
+          "lbl": "meso-epithelial cell"
+        },
+        {
+          "id": "CL:0002097"
+        },
+        {
+          "id": "CL:0002149"
+        },
+        {
+          "id": "CL:0002153"
+        },
+        {
+          "id": "CL:0002157"
+        },
+        {
+          "id": "CL:0002159"
+        },
+        {
+          "id": "CL:0002162"
+        },
+        {
+          "id": "CL:0002167"
+        },
+        {
+          "id": "CL:0002174"
+        },
+        {
+          "id": "CL:0002179"
+        },
+        {
+          "id": "CL:0002180"
+        },
+        {
+          "id": "CL:0002181"
+        },
+        {
+          "id": "CL:0002198"
+        },
+        {
+          "id": "CL:0002204",
+          "lbl": "tuft cell"
+        },
+        {
+          "id": "CL:0002222",
+          "lbl": "vertebrate lens cell"
+        },
+        {
+          "id": "CL:0002224"
+        },
+        {
+          "id": "CL:0002231"
+        },
+        {
+          "id": "CL:0002236"
+        },
+        {
+          "id": "CL:0002237"
+        },
+        {
+          "id": "CL:0002239"
+        },
+        {
+          "id": "CL:0002249"
+        },
+        {
+          "id": "CL:0002251"
+        },
+        {
+          "id": "CL:0002257"
+        },
+        {
+          "id": "CL:0002260"
+        },
+        {
+          "id": "CL:0002261"
+        },
+        {
+          "id": "CL:0002293"
+        },
+        {
+          "id": "CL:0002305"
+        },
+        {
+          "id": "CL:0002306"
+        },
+        {
+          "id": "CL:0002318"
+        },
+        {
+          "id": "CL:0002319"
+        },
+        {
+          "id": "CL:0002320"
+        },
+        {
+          "id": "CL:0002324"
+        },
+        {
+          "id": "CL:0002326"
+        },
+        {
+          "id": "CL:0002327",
+          "lbl": "mammary gland epithelial cell"
+        },
+        {
+          "id": "CL:0002368"
+        },
+        {
+          "id": "CL:0002491"
+        },
+        {
+          "id": "CL:0002494"
+        },
+        {
+          "id": "CL:0002518",
+          "lbl": "kidney epithelial cell"
+        },
+        {
+          "id": "CL:0002519"
+        },
+        {
+          "id": "CL:0002522"
+        },
+        {
+          "id": "CL:0002536",
+          "lbl": "epithelial cell of amnion"
+        },
+        {
+          "id": "CL:0002559"
+        },
+        {
+          "id": "CL:0002565",
+          "lbl": "iris pigment epithelial cell"
+        },
+        {
+          "id": "CL:0002577",
+          "lbl": "placental epithelial cell"
+        },
+        {
+          "id": "CL:0002584"
+        },
+        {
+          "id": "CL:0002586",
+          "lbl": "retinal pigment epithelial cell"
+        },
+        {
+          "id": "CL:0002625"
+        },
+        {
+          "id": "CL:0002665"
+        },
+        {
+          "id": "CL:0005006",
+          "lbl": "ionocyte"
+        },
+        {
+          "id": "CL:0005009"
+        },
+        {
+          "id": "CL:0005010"
+        },
+        {
+          "id": "CL:0005012"
+        },
+        {
+          "id": "CL:0005013"
+        },
+        {
+          "id": "CL:0007005"
+        },
+        {
+          "id": "CL:0007021"
+        },
+        {
+          "id": "CL:0007023"
+        },
+        {
+          "id": "CL:0008026",
+          "lbl": "open tracheal system tracheocyte"
+        },
+        {
+          "id": "CL:0008055"
+        },
+        {
+          "id": "CL:0009003"
+        },
+        {
+          "id": "CL:0009004"
+        },
+        {
+          "id": "CL:0009005"
+        },
+        {
+          "id": "CL:0009010"
+        },
+        {
+          "id": "CL:0010002",
+          "lbl": "epithelial cell of umbilical artery"
+        },
+        {
+          "id": "CL:0010015",
+          "lbl": "coronet cell"
+        },
+        {
+          "id": "CL:0011004"
+        },
+        {
+          "id": "CL:0011026"
+        },
+        {
+          "id": "CL:0011029"
+        },
+        {
+          "id": "CL:0017000"
+        },
+        {
+          "id": "CL:0017003"
+        },
+        {
+          "id": "CL:0017010"
+        },
+        {
+          "id": "CL:0019001"
+        },
+        {
+          "id": "CL:0019026"
+        },
+        {
+          "id": "CL:0019028"
+        },
+        {
+          "id": "CL:0019029"
+        },
+        {
+          "id": "CL:0019032"
+        },
+        {
+          "id": "CL:1000155"
+        },
+        {
+          "id": "CL:1000182"
+        },
+        {
+          "id": "CL:1000223"
+        },
+        {
+          "id": "CL:1000272"
+        },
+        {
+          "id": "CL:1000296",
+          "lbl": "epithelial cell of urethra"
+        },
+        {
+          "id": "CL:1000415",
+          "lbl": "epithelial cell of gallbladder"
+        },
+        {
+          "id": "CL:1000419"
+        },
+        {
+          "id": "CL:1000432",
+          "lbl": "conjunctival epithelial cell"
+        },
+        {
+          "id": "CL:1000433",
+          "lbl": "epithelial cell of lacrimal canaliculus"
+        },
+        {
+          "id": "CL:1000434",
+          "lbl": "epithelial cell of external acoustic meatus"
+        },
+        {
+          "id": "CL:1000441",
+          "lbl": "epithelial cell of viscerocranial mucosa"
+        },
+        {
+          "id": "CL:1000449"
+        },
+        {
+          "id": "CL:1000497"
+        },
+        {
+          "id": "CL:1000600"
+        },
+        {
+          "id": "CL:1000601"
+        },
+        {
+          "id": "CL:1000703"
+        },
+        {
+          "id": "CL:1000850"
+        },
+        {
+          "id": "CL:1001320"
+        },
+        {
+          "id": "CL:1001430"
+        },
+        {
+          "id": "CL:1001575"
+        },
+        {
+          "id": "CL:1001576"
+        },
+        {
+          "id": "CL:1001577"
+        },
+        {
+          "id": "CL:1001578"
+        },
+        {
+          "id": "CL:1001586"
+        },
+        {
+          "id": "CL:1001590"
+        },
+        {
+          "id": "CL:1001591"
+        },
+        {
+          "id": "CL:1001592"
+        },
+        {
+          "id": "CL:1001597"
+        },
+        {
+          "id": "CL:1001598"
+        },
+        {
+          "id": "CL:1100001",
+          "lbl": "secretory epithelial cell"
+        },
+        {
+          "id": "CL:2000020"
+        },
+        {
+          "id": "CL:2000021"
+        },
+        {
+          "id": "CL:2000064"
+        },
+        {
+          "id": "CL:2000084"
+        },
+        {
+          "id": "CL:2000094"
+        },
+        {
+          "id": "CL:4030007"
+        },
+        {
+          "id": "CL:4030012"
+        },
+        {
+          "id": "CL:4030023"
+        },
+        {
+          "id": "CL:4030024",
+          "lbl": "hillock cell"
+        },
+        {
+          "id": "CL:4030031"
+        },
+        {
+          "id": "CL:4030066"
+        },
+        {
+          "id": "CL:4032000"
+        },
+        {
+          "id": "CL:4033013"
+        },
+        {
+          "id": "CL:4033023",
+          "lbl": "airway submucosal gland collecting duct epithelial cell"
+        },
+        {
+          "id": "CL:4033048"
+        },
+        {
+          "id": "CL:4033055"
+        },
+        {
+          "id": "CL:4033066"
+        },
+        {
+          "id": "CL:4040006"
+        },
+        {
+          "id": "CL:4042019"
+        },
+        {
+          "id": "CL:4047056"
+        },
+        {
+          "id": "CL:4052002"
+        },
+        {
+          "id": "CL:4052018",
+          "lbl": "fallopian tube epithelial cell"
+        },
+        {
+          "id": "CL:4052019"
+        },
+        {
+          "id": "CL:4052033"
+        },
+        {
+          "id": "CL:4052034"
+        },
+        {
+          "id": "CL:4052035"
+        },
+        {
+          "id": "CL:4052036"
+        },
+        {
+          "id": "CL:4052039"
+        },
+        {
+          "id": "CL:4052040"
+        },
+        {
+          "id": "CL:4052041"
+        },
+        {
+          "id": "CL:4052042"
+        },
+        {
+          "id": "CL:4052048"
+        },
+        {
+          "id": "CL:4052049"
+        },
+        {
+          "id": "CL:4052069"
+        },
+        {
+          "id": "CL:4300031"
+        },
+        {
+          "id": "CL:4307065"
+        },
+        {
+          "id": "CL:7770004",
+          "lbl": "suprabasal cell"
+        },
+        {
+          "id": "FBbt:00000124"
+        },
+        {
+          "id": "FBbt:00005038"
+        },
+        {
+          "id": "FMA:14515"
+        },
+        {
+          "id": "FMA:256165"
+        },
+        {
+          "id": "FMA:66768"
+        },
+        {
+          "id": "FMA:66778"
+        },
+        {
+          "id": "FMA:67780"
+        },
+        {
+          "id": "FMA:67978"
+        },
+        {
+          "id": "FMA:69074"
+        },
+        {
+          "id": "FMA:69075"
+        },
+        {
+          "id": "FMA:69076"
+        },
+        {
+          "id": "FMA:70552"
+        },
+        {
+          "id": "FMA:70553"
+        },
+        {
+          "id": "FMA:70555"
+        },
+        {
+          "id": "FMA:70583"
+        },
+        {
+          "id": "FMA:70605"
+        },
+        {
+          "id": "FMA:70950"
+        },
+        {
+          "id": "FMA:75802"
+        },
+        {
+          "id": "KUPO:0001019"
+        },
+        {
+          "id": "MESH:D005057"
+        },
+        {
+          "id": "WBbt:0003672"
+        },
+        {
+          "id": "WBbt:0005793"
+        },
+        {
+          "id": "WBbt:0007846"
+        },
+        {
+          "id": "Wikipedia:Syncytium"
+        },
+        {
+          "id": "ZFA:0005323"
+        },
+        {
+          "id": "ZFA:0009034"
+        },
+        {
+          "id": "ZFA:0009035"
+        },
+        {
+          "id": "ZFA:0009038"
+        },
+        {
+          "id": "ZFA:0009039"
+        },
+        {
+          "id": "ZFA:0009042"
+        },
+        {
+          "id": "ZFA:0009050"
+        },
+        {
+          "id": "ZFA:0009111"
+        },
+        {
+          "id": "ZFA:0009148"
+        },
+        {
+          "id": "ZFA:0009196"
+        },
+        {
+          "id": "ZFA:0009372"
+        },
+        {
+          "id": "ZFA:0009374"
+        },
+        {
+          "id": "ZFA:0009383"
+        },
+        {
+          "id": "ZFA:0009385"
+        },
+        {
+          "id": "ZFA:0009388"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "CL:0000255",
+          "pred": "owl:equivalentClass",
+          "obj": "MESH:D005057",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0000414",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9423076923076933"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "CALOHA:TS-2026",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "CARO:0000077",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "FBbt:00000124",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:66768",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "WBbt:0003672",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009034",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7000000000000036"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0000414",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9423076923076933"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002077",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:69074",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002077",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009385",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000067",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70605",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000067",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009035",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000068",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009372",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002078",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:69076",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002078",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009388",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000075",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009038",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000076",
+          "pred": "owl:equivalentClass",
+          "obj": "CALOHA:TS-1249",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000076",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009039",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000079",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009042",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002076",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:69075",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002076",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009383",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000098",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0004301",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000098",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009050",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0000575",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9423076923076922"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "owl:equivalentClass",
+          "obj": "CALOHA:TS-0454",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:14515",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009111",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0000575",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9423076923076922"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000244",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:66778",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000244",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009148",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000411",
+          "pred": "owl:equivalentClass",
+          "obj": "WBbt:0007846",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000411",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009196",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000418",
+          "pred": "owl:equivalentClass",
+          "obj": "WBbt:0005793",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000420",
+          "pred": "owl:equivalentClass",
+          "obj": "Wikipedia:Syncytium",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002204",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:67978",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002222",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70950",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002327",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0004300",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002518",
+          "pred": "owl:equivalentClass",
+          "obj": "KUPO:0001019",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002518",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0009374",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002586",
+          "pred": "owl:equivalentClass",
+          "obj": "BTO:0004910",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0002586",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:75802",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0005006",
+          "pred": "owl:equivalentClass",
+          "obj": "ZFA:0005323",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0008026",
+          "pred": "owl:equivalentClass",
+          "obj": "FBbt:00005038",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000296",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:256165",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000415",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:67780",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000432",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70552",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000433",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70553",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000434",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70555",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:1000441",
+          "pred": "owl:equivalentClass",
+          "obj": "FMA:70583",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.7"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.7"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "CL:0000018",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000019",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000021",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000026",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000032",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000034",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000059",
+          "pred": "is_a",
+          "obj": "CL:0002077"
+        },
+        {
+          "sub": "CL:0000059",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000064",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000065",
+          "pred": "is_a",
+          "obj": "CL:0000067"
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000066",
+          "pred": "owl:disjointWith",
+          "obj": "CL:0000738"
+        },
+        {
+          "sub": "CL:0000067",
+          "pred": "is_a",
+          "obj": "CL:0000064"
+        },
+        {
+          "sub": "CL:0000067",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000068",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000069",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:0000072",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:0000072",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0000075",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000076",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000077",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:0000077",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0000078",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:0000079",
+          "pred": "is_a",
+          "obj": "BFO:0000002"
+        },
+        {
+          "sub": "CL:0000079",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000080",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000083",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0000098",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000098",
+          "pred": "is_a",
+          "obj": "CL:0000197"
+        },
+        {
+          "sub": "CL:0000115",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000146",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000148",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000150",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000152",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000160",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000163",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000164",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000165",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000168",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000179",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "is_a",
+          "obj": "BFO:0000002"
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000182",
+          "pred": "is_a",
+          "obj": "CL:0000417"
+        },
+        {
+          "sub": "CL:0000185",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000187",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000188",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000197",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000209",
+          "pred": "is_a",
+          "obj": "CL:0000098"
+        },
+        {
+          "sub": "CL:0000209",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0000214",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0000216",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000221",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000222",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000223",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000226",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000228",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000237",
+          "pred": "is_a",
+          "obj": "CL:0002077"
+        },
+        {
+          "sub": "CL:0000239",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000240",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:0000240",
+          "pred": "is_a",
+          "obj": "CL:0000079"
+        },
+        {
+          "sub": "CL:0000241",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000241",
+          "pred": "is_a",
+          "obj": "CL:0000079"
+        },
+        {
+          "sub": "CL:0000242",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000244",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000255",
+          "pred": "is_a",
+          "obj": "CL:0000000"
+        },
+        {
+          "sub": "CL:0000255",
+          "pred": "owl:disjointWith",
+          "obj": "CL:0000520"
+        },
+        {
+          "sub": "CL:0000257",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000342",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000345",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000347",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000348",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000349",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000360",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000361",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000365",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000382",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000387",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000389",
+          "pred": "is_a",
+          "obj": "CL:0000658"
+        },
+        {
+          "sub": "CL:0000407",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000411",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000411",
+          "pred": "is_a",
+          "obj": "CL:0000228"
+        },
+        {
+          "sub": "CL:0000418",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000420",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000420",
+          "pred": "is_a",
+          "obj": "CL:4052002"
+        },
+        {
+          "sub": "CL:0000425",
+          "pred": "is_a",
+          "obj": "CL:0000658"
+        },
+        {
+          "sub": "CL:0000430",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000431",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000434",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000436",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000477",
+          "pred": "is_a",
+          "obj": "CL:0000500"
+        },
+        {
+          "sub": "CL:0000487",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000500",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000517",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000518",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000521",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000571",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000574",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000575",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:0000618",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000656",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000657",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000658",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000658",
+          "pred": "is_a",
+          "obj": "CL:0000327"
+        },
+        {
+          "sub": "CL:0000659",
+          "pred": "is_a",
+          "obj": "CL:0000500"
+        },
+        {
+          "sub": "CL:0000677",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000686",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0000710",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0000710",
+          "pred": "is_a",
+          "obj": "CL:0002077"
+        },
+        {
+          "sub": "CL:0000722",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000730",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000731",
+          "pred": "is_a",
+          "obj": "CL:0000244"
+        },
+        {
+          "sub": "CL:0000738",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000747",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000763",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000837",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000846",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0000851",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000852",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0000892",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0001035",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002031",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002032",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002062",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:0002075",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0002075",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:0002076",
+          "pred": "is_a",
+          "obj": "BFO:0000002"
+        },
+        {
+          "sub": "CL:0002076",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002077",
+          "pred": "is_a",
+          "obj": "BFO:0000002"
+        },
+        {
+          "sub": "CL:0002077",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002078",
+          "pred": "is_a",
+          "obj": "BFO:0000002"
+        },
+        {
+          "sub": "CL:0002078",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002097",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002149",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002153",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002157",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002159",
+          "pred": "is_a",
+          "obj": "CL:0002077"
+        },
+        {
+          "sub": "CL:0002162",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002167",
+          "pred": "is_a",
+          "obj": "CL:0000098"
+        },
+        {
+          "sub": "CL:0002174",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002179",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0002180",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0002181",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0002198",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002204",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002222",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002222",
+          "pred": "is_a",
+          "obj": "CL:0000306"
+        },
+        {
+          "sub": "CL:0002224",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0002224",
+          "pred": "is_a",
+          "obj": "CL:0002222"
+        },
+        {
+          "sub": "CL:0002231",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002236",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:0002237",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:0002239",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002249",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002251",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002257",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002260",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002261",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002293",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002305",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002306",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0002318",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002319",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002320",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002324",
+          "pred": "is_a",
+          "obj": "CL:0002327"
+        },
+        {
+          "sub": "CL:0002326",
+          "pred": "is_a",
+          "obj": "CL:0002327"
+        },
+        {
+          "sub": "CL:0002327",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002368",
+          "pred": "is_a",
+          "obj": "CL:0002076"
+        },
+        {
+          "sub": "CL:0002491",
+          "pred": "is_a",
+          "obj": "CL:0000098"
+        },
+        {
+          "sub": "CL:0002494",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002518",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002518",
+          "pred": "is_a",
+          "obj": "CL:1000497"
+        },
+        {
+          "sub": "CL:0002519",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:0002522",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002536",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002559",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0002565",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002565",
+          "pred": "is_a",
+          "obj": "CL:0000342"
+        },
+        {
+          "sub": "CL:0002577",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002577",
+          "pred": "is_a",
+          "obj": "CL:0000349"
+        },
+        {
+          "sub": "CL:0002584",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:0002586",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0002586",
+          "pred": "is_a",
+          "obj": "CL:0000149"
+        },
+        {
+          "sub": "CL:0002586",
+          "pred": "is_a",
+          "obj": "CL:0009004"
+        },
+        {
+          "sub": "CL:0002625",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:0002665",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0005006",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0005009",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0005009",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:0005010",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0005010",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:0005012",
+          "pred": "is_a",
+          "obj": "CL:0000067"
+        },
+        {
+          "sub": "CL:0005012",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:0005013",
+          "pred": "is_a",
+          "obj": "CL:0000067"
+        },
+        {
+          "sub": "CL:0007005",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0007021",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0007023",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0008026",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0008055",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:0009003",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0009005",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0009010",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0010002",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0010015",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:0011004",
+          "pred": "is_a",
+          "obj": "CL:0002222"
+        },
+        {
+          "sub": "CL:0011026",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0011029",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0017000",
+          "pred": "is_a",
+          "obj": "CL:0005006"
+        },
+        {
+          "sub": "CL:0017003",
+          "pred": "is_a",
+          "obj": "CL:1000296"
+        },
+        {
+          "sub": "CL:0017010",
+          "pred": "is_a",
+          "obj": "CL:1000296"
+        },
+        {
+          "sub": "CL:0017010",
+          "pred": "is_a",
+          "obj": "CL:4030024"
+        },
+        {
+          "sub": "CL:0019001",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:0019026",
+          "pred": "is_a",
+          "obj": "CL:0000182"
+        },
+        {
+          "sub": "CL:0019028",
+          "pred": "is_a",
+          "obj": "CL:0000182"
+        },
+        {
+          "sub": "CL:0019029",
+          "pred": "is_a",
+          "obj": "CL:0000182"
+        },
+        {
+          "sub": "CL:0019032",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:1000155",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000182",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000223",
+          "pred": "is_a",
+          "obj": "CL:0000098"
+        },
+        {
+          "sub": "CL:1000272",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000296",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000296",
+          "pred": "is_a",
+          "obj": "CL:1001320"
+        },
+        {
+          "sub": "CL:1000415",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000419",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:1000432",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000433",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000434",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000441",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1000449",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:1000497",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000600",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000601",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:1000703",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:1000850",
+          "pred": "is_a",
+          "obj": "CL:0000067"
+        },
+        {
+          "sub": "CL:1001430",
+          "pred": "is_a",
+          "obj": "CL:1000296"
+        },
+        {
+          "sub": "CL:1001575",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:1001576",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:1001577",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:1001578",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:1001586",
+          "pred": "is_a",
+          "obj": "CL:0002327"
+        },
+        {
+          "sub": "CL:1001590",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:1001590",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:1001591",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:1001592",
+          "pred": "is_a",
+          "obj": "CL:1000415"
+        },
+        {
+          "sub": "CL:1001597",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:1001598",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:1100001",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:1100001",
+          "pred": "is_a",
+          "obj": "CL:0000151"
+        },
+        {
+          "sub": "CL:2000020",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:2000021",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:2000064",
+          "pred": "is_a",
+          "obj": "CL:0002078"
+        },
+        {
+          "sub": "CL:2000084",
+          "pred": "is_a",
+          "obj": "CL:1000432"
+        },
+        {
+          "sub": "CL:2000094",
+          "pred": "is_a",
+          "obj": "CL:1000441"
+        },
+        {
+          "sub": "CL:4030007",
+          "pred": "is_a",
+          "obj": "CL:4052018"
+        },
+        {
+          "sub": "CL:4030012",
+          "pred": "is_a",
+          "obj": "CL:0000076"
+        },
+        {
+          "sub": "CL:4030023",
+          "pred": "is_a",
+          "obj": "CL:4030024"
+        },
+        {
+          "sub": "CL:4030024",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:4030031",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:4030066",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4030066",
+          "pred": "is_a",
+          "obj": "CL:0002518"
+        },
+        {
+          "sub": "CL:4032000",
+          "pred": "is_a",
+          "obj": "CL:1000296"
+        },
+        {
+          "sub": "CL:4033013",
+          "pred": "is_a",
+          "obj": "CL:7770004"
+        },
+        {
+          "sub": "CL:4033023",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:4033048",
+          "pred": "is_a",
+          "obj": "CL:7770004"
+        },
+        {
+          "sub": "CL:4033055",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4033066",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:4040006",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:4042019",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:4047056",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:4052018",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "CL:4052019",
+          "pred": "is_a",
+          "obj": "CL:4052018"
+        },
+        {
+          "sub": "CL:4052033",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052034",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052035",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4052035",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052036",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052039",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052040",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052041",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052042",
+          "pred": "is_a",
+          "obj": "CL:0002204"
+        },
+        {
+          "sub": "CL:4052042",
+          "pred": "is_a",
+          "obj": "CL:1000296"
+        },
+        {
+          "sub": "CL:4052048",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4052049",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4052049",
+          "pred": "is_a",
+          "obj": "CL:0000075"
+        },
+        {
+          "sub": "CL:4052069",
+          "pred": "is_a",
+          "obj": "CL:0000068"
+        },
+        {
+          "sub": "CL:4300031",
+          "pred": "is_a",
+          "obj": "CL:0000255"
+        },
+        {
+          "sub": "CL:4307065",
+          "pred": "is_a",
+          "obj": "CL:1100001"
+        },
+        {
+          "sub": "CL:7770004",
+          "pred": "is_a",
+          "obj": "CL:0000066"
+        },
+        {
+          "sub": "BTO:0001514",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0001540",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0001663",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0002295",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0002309",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0002484",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        },
+        {
+          "sub": "BTO:0003736",
+          "pred": "is_a",
+          "obj": "BTO:0000414"
+        }
+      ]
+    }
+  ]
+}

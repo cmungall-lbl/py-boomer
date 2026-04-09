@@ -1,0 +1,482 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "1.0"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "A"
+        },
+        {
+          "id": "B"
+        },
+        {
+          "id": "C"
+        },
+        {
+          "id": "D"
+        },
+        {
+          "id": "E"
+        },
+        {
+          "id": "F"
+        },
+        {
+          "id": "G"
+        },
+        {
+          "id": "H"
+        },
+        {
+          "id": "Thing"
+        },
+        {
+          "id": "X1"
+        },
+        {
+          "id": "X2"
+        },
+        {
+          "id": "X3"
+        },
+        {
+          "id": "X4"
+        },
+        {
+          "id": "X5"
+        },
+        {
+          "id": "X6"
+        },
+        {
+          "id": "X7"
+        },
+        {
+          "id": "X8"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "A",
+          "pred": "owl:equivalentClass",
+          "obj": "B",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "A",
+          "pred": "owl:equivalentClass",
+          "obj": "C",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "A",
+          "pred": "owl:equivalentClass",
+          "obj": "D",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "B",
+          "pred": "owl:equivalentClass",
+          "obj": "C",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "B",
+          "pred": "owl:equivalentClass",
+          "obj": "D",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "C",
+          "pred": "owl:equivalentClass",
+          "obj": "D",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "E",
+          "pred": "owl:equivalentClass",
+          "obj": "F",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "E",
+          "pred": "owl:equivalentClass",
+          "obj": "G",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "E",
+          "pred": "owl:equivalentClass",
+          "obj": "H",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "F",
+          "pred": "owl:equivalentClass",
+          "obj": "G",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "F",
+          "pred": "owl:equivalentClass",
+          "obj": "H",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "G",
+          "pred": "owl:equivalentClass",
+          "obj": "H",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X1",
+          "pred": "owl:equivalentClass",
+          "obj": "X2",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X2",
+          "pred": "owl:equivalentClass",
+          "obj": "X3",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X3",
+          "pred": "owl:equivalentClass",
+          "obj": "X4",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X5",
+          "pred": "owl:equivalentClass",
+          "obj": "X6",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X6",
+          "pred": "owl:equivalentClass",
+          "obj": "X7",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X7",
+          "pred": "owl:equivalentClass",
+          "obj": "X8",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "X1",
+          "pred": "owl:disjointWith",
+          "obj": "X8",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.91"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "A",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "B",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "C",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "D",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "E",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "F",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "G",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "H",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X1",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X2",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X3",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X4",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X5",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X6",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X7",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "X8",
+          "pred": "is_a",
+          "obj": "Thing"
+        },
+        {
+          "sub": "A",
+          "pred": "owl:disjointWith",
+          "obj": "E"
+        }
+      ]
+    }
+  ]
+}

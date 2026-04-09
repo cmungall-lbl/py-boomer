@@ -1,0 +1,79 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "0.8999999999999999"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "A1"
+        },
+        {
+          "id": "A2"
+        },
+        {
+          "id": "B1"
+        },
+        {
+          "id": "B2"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "A1",
+          "pred": "owl:equivalentClass",
+          "obj": "B1",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.8823529411764708"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "A2",
+          "pred": "owl:equivalentClass",
+          "obj": "B2",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.8823529411764708"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "A2",
+          "pred": "is_a",
+          "obj": "A1"
+        },
+        {
+          "sub": "B2",
+          "pred": "is_a",
+          "obj": "B1"
+        }
+      ]
+    }
+  ]
+}

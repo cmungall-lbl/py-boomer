@@ -1,0 +1,18 @@
+{
+  "name": null,
+  "number_of_combinations": 0,
+  "number_of_satisfiable_combinations": 0,
+  "number_of_combinations_explored_including_implicit": 0,
+  "number_of_components": null,
+  "confidence": 0.0,
+  "prior_prob": 0.0,
+  "posterior_prob": 0.0,
+  "proportion_of_combinations_explored": 0.0,
+  "ground_pfacts": [],
+  "solved_pfacts": [],
+  "sub_solutions": [],
+  "time_started": 1772723361.730484,
+  "time_finished": 1772723361.730526,
+  "timed_out": false,
+  "time_elapsed": 4.1961669921875e-05
+}

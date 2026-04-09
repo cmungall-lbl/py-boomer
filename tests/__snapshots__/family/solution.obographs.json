@@ -1,0 +1,320 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "0.9499999999999998"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "Brother"
+        },
+        {
+          "id": "Child"
+        },
+        {
+          "id": "Daughter"
+        },
+        {
+          "id": "Father"
+        },
+        {
+          "id": "FemaleChild"
+        },
+        {
+          "id": "FemaleParent"
+        },
+        {
+          "id": "FemaleSibling"
+        },
+        {
+          "id": "MaleChild"
+        },
+        {
+          "id": "MaleParent"
+        },
+        {
+          "id": "MaleSibling"
+        },
+        {
+          "id": "Mother"
+        },
+        {
+          "id": "Parent"
+        },
+        {
+          "id": "Person"
+        },
+        {
+          "id": "Sibling"
+        },
+        {
+          "id": "Sister"
+        },
+        {
+          "id": "Son"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "Mother",
+          "pred": "owl:equivalentClass",
+          "obj": "FemaleParent",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Father",
+          "pred": "owl:equivalentClass",
+          "obj": "MaleParent",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Son",
+          "pred": "owl:equivalentClass",
+          "obj": "MaleChild",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Daughter",
+          "pred": "owl:equivalentClass",
+          "obj": "FemaleChild",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Brother",
+          "pred": "owl:equivalentClass",
+          "obj": "MaleSibling",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Sister",
+          "pred": "owl:equivalentClass",
+          "obj": "FemaleSibling",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.9"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "FemaleParent",
+          "pred": "is_a",
+          "obj": "Parent",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9523809523809523"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "MaleParent",
+          "pred": "is_a",
+          "obj": "Parent",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "FemaleChild",
+          "pred": "is_a",
+          "obj": "Child",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "MaleChild",
+          "pred": "is_a",
+          "obj": "Child",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.9523809523809523"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "FemaleSibling",
+          "pred": "is_a",
+          "obj": "Sibling",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "MaleSibling",
+          "pred": "is_a",
+          "obj": "Sibling",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "1.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.95"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "Child",
+          "pred": "is_a",
+          "obj": "Person"
+        },
+        {
+          "sub": "Parent",
+          "pred": "is_a",
+          "obj": "Person"
+        },
+        {
+          "sub": "Sibling",
+          "pred": "is_a",
+          "obj": "Person"
+        },
+        {
+          "sub": "Mother",
+          "pred": "is_a",
+          "obj": "Parent"
+        },
+        {
+          "sub": "Father",
+          "pred": "is_a",
+          "obj": "Parent"
+        },
+        {
+          "sub": "Son",
+          "pred": "is_a",
+          "obj": "Child"
+        },
+        {
+          "sub": "Daughter",
+          "pred": "is_a",
+          "obj": "Child"
+        },
+        {
+          "sub": "Brother",
+          "pred": "is_a",
+          "obj": "Sibling"
+        },
+        {
+          "sub": "Sister",
+          "pred": "is_a",
+          "obj": "Sibling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+#mapping_set_id: boomer:solution
+#mapping_tool: BOOMER
+#mapping_date: 2026-03-05
+#curie_map:
+#  semapv: https://w3id.org/semapv/vocab/
+#  skos: http://www.w3.org/2004/02/skos/core#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence
+cat		skos:exactMatch	Felix		semapv:CompositeMatching	0.9
+dog		skos:exactMatch	Canus		semapv:CompositeMatching	1.0
+furry_animal		skos:exactMatch	Mammalia		semapv:CompositeMatching	1.0

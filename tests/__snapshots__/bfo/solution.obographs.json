@@ -1,0 +1,250 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "0.0"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "0"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "Continuant"
+        },
+        {
+          "id": "ContinuantFiatBoundary"
+        },
+        {
+          "id": "Disposition"
+        },
+        {
+          "id": "Entity"
+        },
+        {
+          "id": "FiatObjectPart"
+        },
+        {
+          "id": "Function"
+        },
+        {
+          "id": "GenericallyDependentContinuant"
+        },
+        {
+          "id": "ImmaterialEntity"
+        },
+        {
+          "id": "IndependentContinuant"
+        },
+        {
+          "id": "MaterialEntity"
+        },
+        {
+          "id": "Object"
+        },
+        {
+          "id": "ObjectAggregate"
+        },
+        {
+          "id": "Occurrent"
+        },
+        {
+          "id": "OneDimensionalSpatialRegion"
+        },
+        {
+          "id": "OneDimensionalTemporalRegion"
+        },
+        {
+          "id": "Process"
+        },
+        {
+          "id": "ProcessBoundary"
+        },
+        {
+          "id": "Quality"
+        },
+        {
+          "id": "RealizableEntity"
+        },
+        {
+          "id": "Role"
+        },
+        {
+          "id": "Site"
+        },
+        {
+          "id": "SpatialRegion"
+        },
+        {
+          "id": "SpatiotemporalRegion"
+        },
+        {
+          "id": "SpecificallyDependentContinuant"
+        },
+        {
+          "id": "TemporalRegion"
+        },
+        {
+          "id": "ThreeDimensionalSpatialRegion"
+        },
+        {
+          "id": "TwoDimensionalSpatialRegion"
+        },
+        {
+          "id": "ZeroDimensionalSpatialRegion"
+        },
+        {
+          "id": "ZeroDimensionalTemporalRegion"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "Continuant",
+          "pred": "is_a",
+          "obj": "Entity"
+        },
+        {
+          "sub": "Occurrent",
+          "pred": "is_a",
+          "obj": "Entity"
+        },
+        {
+          "sub": "SpecificallyDependentContinuant",
+          "pred": "is_a",
+          "obj": "Continuant"
+        },
+        {
+          "sub": "GenericallyDependentContinuant",
+          "pred": "is_a",
+          "obj": "Continuant"
+        },
+        {
+          "sub": "IndependentContinuant",
+          "pred": "is_a",
+          "obj": "Continuant"
+        },
+        {
+          "sub": "Quality",
+          "pred": "is_a",
+          "obj": "SpecificallyDependentContinuant"
+        },
+        {
+          "sub": "RealizableEntity",
+          "pred": "is_a",
+          "obj": "SpecificallyDependentContinuant"
+        },
+        {
+          "sub": "Role",
+          "pred": "is_a",
+          "obj": "RealizableEntity"
+        },
+        {
+          "sub": "Disposition",
+          "pred": "is_a",
+          "obj": "RealizableEntity"
+        },
+        {
+          "sub": "Function",
+          "pred": "is_a",
+          "obj": "RealizableEntity"
+        },
+        {
+          "sub": "MaterialEntity",
+          "pred": "is_a",
+          "obj": "IndependentContinuant"
+        },
+        {
+          "sub": "ImmaterialEntity",
+          "pred": "is_a",
+          "obj": "IndependentContinuant"
+        },
+        {
+          "sub": "Object",
+          "pred": "is_a",
+          "obj": "MaterialEntity"
+        },
+        {
+          "sub": "FiatObjectPart",
+          "pred": "is_a",
+          "obj": "MaterialEntity"
+        },
+        {
+          "sub": "ObjectAggregate",
+          "pred": "is_a",
+          "obj": "MaterialEntity"
+        },
+        {
+          "sub": "Site",
+          "pred": "is_a",
+          "obj": "ImmaterialEntity"
+        },
+        {
+          "sub": "SpatialRegion",
+          "pred": "is_a",
+          "obj": "ImmaterialEntity"
+        },
+        {
+          "sub": "ContinuantFiatBoundary",
+          "pred": "is_a",
+          "obj": "ImmaterialEntity"
+        },
+        {
+          "sub": "ZeroDimensionalSpatialRegion",
+          "pred": "is_a",
+          "obj": "SpatialRegion"
+        },
+        {
+          "sub": "OneDimensionalSpatialRegion",
+          "pred": "is_a",
+          "obj": "SpatialRegion"
+        },
+        {
+          "sub": "TwoDimensionalSpatialRegion",
+          "pred": "is_a",
+          "obj": "SpatialRegion"
+        },
+        {
+          "sub": "ThreeDimensionalSpatialRegion",
+          "pred": "is_a",
+          "obj": "SpatialRegion"
+        },
+        {
+          "sub": "Process",
+          "pred": "is_a",
+          "obj": "Occurrent"
+        },
+        {
+          "sub": "ProcessBoundary",
+          "pred": "is_a",
+          "obj": "Occurrent"
+        },
+        {
+          "sub": "TemporalRegion",
+          "pred": "is_a",
+          "obj": "Occurrent"
+        },
+        {
+          "sub": "SpatiotemporalRegion",
+          "pred": "is_a",
+          "obj": "Occurrent"
+        },
+        {
+          "sub": "ZeroDimensionalTemporalRegion",
+          "pred": "is_a",
+          "obj": "TemporalRegion"
+        },
+        {
+          "sub": "OneDimensionalTemporalRegion",
+          "pred": "is_a",
+          "obj": "TemporalRegion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+#mapping_set_id: boomer:solution
+#mapping_tool: BOOMER
+#mapping_date: 2026-03-05
+#curie_map:
+#  semapv: https://w3id.org/semapv/vocab/
+#  skos: http://www.w3.org/2004/02/skos/core#
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence
+Mother		skos:exactMatch	FemaleParent		semapv:CompositeMatching	1.0
+Father		skos:exactMatch	MaleParent		semapv:CompositeMatching	1.0
+Son		skos:exactMatch	MaleChild		semapv:CompositeMatching	1.0
+Daughter		skos:exactMatch	FemaleChild		semapv:CompositeMatching	1.0
+Brother		skos:exactMatch	MaleSibling		semapv:CompositeMatching	1.0
+Sister		skos:exactMatch	FemaleSibling		semapv:CompositeMatching	1.0
+FemaleParent		skos:narrowMatch	Parent		semapv:CompositeMatching	0.9523809523809523
+MaleParent		skos:narrowMatch	Parent		semapv:CompositeMatching	1.0
+FemaleChild		skos:narrowMatch	Child		semapv:CompositeMatching	1.0
+MaleChild		skos:narrowMatch	Child		semapv:CompositeMatching	0.9523809523809523
+FemaleSibling		skos:narrowMatch	Sibling		semapv:CompositeMatching	1.0
+MaleSibling		skos:narrowMatch	Sibling		semapv:CompositeMatching	1.0

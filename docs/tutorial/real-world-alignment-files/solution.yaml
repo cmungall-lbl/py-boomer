@@ -1,0 +1,1380 @@
+name: null
+number_of_combinations: 366
+number_of_satisfiable_combinations: 362
+number_of_combinations_explored_including_implicit: 506
+number_of_components: 29
+confidence: 1.642809059088352e-05
+prior_prob: 1.7984650426474064e-08
+posterior_prob: 7.390142351444024e-09
+proportion_of_combinations_explored: 1.0
+ground_pfacts: []
+solved_pfacts:
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000255
+      equivalent: MESH:D005057
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: BTO:0000414
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.9423076923076933
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: CALOHA:TS-2026
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: CARO:0000077
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: FBbt:00000124
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: FMA:66768
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: WBbt:0003672
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: ZFA:0009034
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7000000000000036
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000066
+      equivalent: BTO:0000414
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.9423076923076933
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002077
+      equivalent: FMA:69074
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002077
+      equivalent: ZFA:0009385
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000067
+      equivalent: FMA:70605
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000067
+      equivalent: ZFA:0009035
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000068
+      equivalent: ZFA:0009372
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002078
+      equivalent: FMA:69076
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002078
+      equivalent: ZFA:0009388
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000075
+      equivalent: ZFA:0009038
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000076
+      equivalent: CALOHA:TS-1249
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000076
+      equivalent: ZFA:0009039
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000079
+      equivalent: ZFA:0009042
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002076
+      equivalent: FMA:69075
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002076
+      equivalent: ZFA:0009383
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000098
+      equivalent: BTO:0004301
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000098
+      equivalent: ZFA:0009050
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000182
+      equivalent: BTO:0000575
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.9423076923076922
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000182
+      equivalent: CALOHA:TS-0454
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000182
+      equivalent: FMA:14515
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000182
+      equivalent: ZFA:0009111
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000182
+      equivalent: BTO:0000575
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.9423076923076922
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000244
+      equivalent: FMA:66778
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000244
+      equivalent: ZFA:0009148
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000411
+      equivalent: WBbt:0007846
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000411
+      equivalent: ZFA:0009196
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000418
+      equivalent: WBbt:0005793
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0000420
+      equivalent: Wikipedia:Syncytium
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002204
+      equivalent: FMA:67978
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002222
+      equivalent: FMA:70950
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002327
+      equivalent: BTO:0004300
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002518
+      equivalent: KUPO:0001019
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002518
+      equivalent: ZFA:0009374
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002586
+      equivalent: BTO:0004910
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0002586
+      equivalent: FMA:75802
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0005006
+      equivalent: ZFA:0005323
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:0008026
+      equivalent: FBbt:00005038
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000296
+      equivalent: FMA:256165
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000415
+      equivalent: FMA:67780
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000432
+      equivalent: FMA:70552
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000433
+      equivalent: FMA:70553
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000434
+      equivalent: FMA:70555
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+- pfact:
+    fact:
+      fact_type: EquivalentTo
+      sub: CL:1000441
+      equivalent: FMA:70583
+    prob: 0.7
+  truth_value: true
+  posterior_prob: 0.7
+  metadata: null
+sub_solutions:
+- name: epithelial cell
+  number_of_combinations: 258
+  number_of_satisfiable_combinations: 256
+  number_of_combinations_explored_including_implicit: 384
+  number_of_components: null
+  confidence: 0.5
+  prior_prob: 0.05764800999999997
+  posterior_prob: 0.036953852564102795
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: BTO:0000414
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.9423076923076933
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: CALOHA:TS-2026
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: CARO:0000077
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: FBbt:00000124
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: FMA:66768
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: WBbt:0003672
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: ZFA:0009034
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7000000000000036
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000066
+        equivalent: BTO:0000414
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.9423076923076933
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611645.961439
+  time_finished: 1772611649.2904608
+  timed_out: false
+  time_elapsed: 3.32902193069458
+- name: hepatocyte
+  number_of_combinations: 34
+  number_of_satisfiable_combinations: 32
+  number_of_combinations_explored_including_implicit: 48
+  number_of_components: null
+  confidence: 0.5
+  prior_prob: 0.16806999999999994
+  posterior_prob: 0.10773717948717942
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000182
+        equivalent: BTO:0000575
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.9423076923076922
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000182
+        equivalent: CALOHA:TS-0454
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000182
+        equivalent: FMA:14515
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000182
+        equivalent: ZFA:0009111
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000182
+        equivalent: BTO:0000575
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.9423076923076922
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.2976441
+  time_finished: 1772611649.3193228
+  timed_out: false
+  time_elapsed: 0.021678686141967773
+- name: ecto-epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002077
+        equivalent: FMA:69074
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002077
+        equivalent: ZFA:0009385
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.291001
+  time_finished: 1772611649.291775
+  timed_out: false
+  time_elapsed: 0.0007739067077636719
+- name: ciliated epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000067
+        equivalent: FMA:70605
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000067
+        equivalent: ZFA:0009035
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.291795
+  time_finished: 1772611649.292508
+  timed_out: false
+  time_elapsed: 0.0007128715515136719
+- name: meso-epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002078
+        equivalent: FMA:69076
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002078
+        equivalent: ZFA:0009388
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.292864
+  time_finished: 1772611649.2939909
+  timed_out: false
+  time_elapsed: 0.0011267662048339844
+- name: squamous epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000076
+        equivalent: CALOHA:TS-1249
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000076
+        equivalent: ZFA:0009039
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.294328
+  time_finished: 1772611649.29534
+  timed_out: false
+  time_elapsed: 0.0010120868682861328
+- name: endo-epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002076
+        equivalent: FMA:69075
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002076
+        equivalent: ZFA:0009383
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.295514
+  time_finished: 1772611649.296864
+  timed_out: false
+  time_elapsed: 0.0013499259948730469
+- name: sensory epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000098
+        equivalent: BTO:0004301
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000098
+        equivalent: ZFA:0009050
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.296895
+  time_finished: 1772611649.2976232
+  timed_out: false
+  time_elapsed: 0.0007281303405761719
+- name: transitional epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000244
+        equivalent: FMA:66778
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000244
+        equivalent: ZFA:0009148
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.319393
+  time_finished: 1772611649.31988
+  timed_out: false
+  time_elapsed: 0.0004870891571044922
+- name: Caenorhabditis hypodermal cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000411
+        equivalent: WBbt:0007846
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000411
+        equivalent: ZFA:0009196
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.319902
+  time_finished: 1772611649.320378
+  timed_out: false
+  time_elapsed: 0.0004761219024658203
+- name: kidney epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002518
+        equivalent: KUPO:0001019
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002518
+        equivalent: ZFA:0009374
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.321252
+  time_finished: 1772611649.322079
+  timed_out: false
+  time_elapsed: 0.0008268356323242188
+- name: retinal pigment epithelial cell
+  number_of_combinations: 4
+  number_of_satisfiable_combinations: 4
+  number_of_combinations_explored_including_implicit: 4
+  number_of_components: null
+  confidence: 0.6999999999999998
+  prior_prob: 0.48999999999999994
+  posterior_prob: 0.48999999999999994
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002586
+        equivalent: BTO:0004910
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002586
+        equivalent: FMA:75802
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3220952
+  time_finished: 1772611649.322614
+  timed_out: false
+  time_elapsed: 0.000518798828125
+- name: eukaryotic cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000255
+        equivalent: MESH:D005057
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611645.959171
+  time_finished: 1772611645.96141
+  timed_out: false
+  time_elapsed: 0.0022389888763427734
+- name: duct epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000068
+        equivalent: ZFA:0009372
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.292526
+  time_finished: 1772611649.292848
+  timed_out: false
+  time_elapsed: 0.00032210350036621094
+- name: columnar/cuboidal epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000075
+        equivalent: ZFA:0009038
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.294008
+  time_finished: 1772611649.294313
+  timed_out: false
+  time_elapsed: 0.00030493736267089844
+- name: stratified epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000079
+        equivalent: ZFA:0009042
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.2953558
+  time_finished: 1772611649.2955
+  timed_out: false
+  time_elapsed: 0.0001442432403564453
+- name: arcade cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000418
+        equivalent: WBbt:0005793
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3203998
+  time_finished: 1772611649.320501
+  timed_out: false
+  time_elapsed: 0.00010132789611816406
+- name: syncytial epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0000420
+        equivalent: Wikipedia:Syncytium
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3205152
+  time_finished: 1772611649.3206232
+  timed_out: false
+  time_elapsed: 0.00010800361633300781
+- name: tuft cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002204
+        equivalent: FMA:67978
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3206432
+  time_finished: 1772611649.320905
+  timed_out: false
+  time_elapsed: 0.0002617835998535156
+- name: vertebrate lens cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002222
+        equivalent: FMA:70950
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3209212
+  time_finished: 1772611649.321074
+  timed_out: false
+  time_elapsed: 0.00015282630920410156
+- name: mammary gland epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0002327
+        equivalent: BTO:0004300
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3210921
+  time_finished: 1772611649.321238
+  timed_out: false
+  time_elapsed: 0.00014591217041015625
+- name: ionocyte
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0005006
+        equivalent: ZFA:0005323
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3226292
+  time_finished: 1772611649.3227441
+  timed_out: false
+  time_elapsed: 0.00011491775512695312
+- name: open tracheal system tracheocyte
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:0008026
+        equivalent: FBbt:00005038
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.322758
+  time_finished: 1772611649.322853
+  timed_out: false
+  time_elapsed: 9.512901306152344e-05
+- name: epithelial cell of urethra
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000296
+        equivalent: FMA:256165
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.322867
+  time_finished: 1772611649.323061
+  timed_out: false
+  time_elapsed: 0.00019407272338867188
+- name: epithelial cell of gallbladder
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000415
+        equivalent: FMA:67780
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3230772
+  time_finished: 1772611649.3231869
+  timed_out: false
+  time_elapsed: 0.00010967254638671875
+- name: conjunctival epithelial cell
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000432
+        equivalent: FMA:70552
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.3232021
+  time_finished: 1772611649.323313
+  timed_out: false
+  time_elapsed: 0.00011086463928222656
+- name: epithelial cell of lacrimal canaliculus
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000433
+        equivalent: FMA:70553
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.323327
+  time_finished: 1772611649.323427
+  timed_out: false
+  time_elapsed: 9.989738464355469e-05
+- name: epithelial cell of external acoustic meatus
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000434
+        equivalent: FMA:70555
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.323442
+  time_finished: 1772611649.3235378
+  timed_out: false
+  time_elapsed: 9.584426879882812e-05
+- name: epithelial cell of viscerocranial mucosa
+  number_of_combinations: 2
+  number_of_satisfiable_combinations: 2
+  number_of_combinations_explored_including_implicit: 2
+  number_of_components: null
+  confidence: 0.7
+  prior_prob: 0.7
+  posterior_prob: 0.7
+  proportion_of_combinations_explored: 1.0
+  ground_pfacts: []
+  solved_pfacts:
+  - pfact:
+      fact:
+        fact_type: EquivalentTo
+        sub: CL:1000441
+        equivalent: FMA:70583
+      prob: 0.7
+    truth_value: true
+    posterior_prob: 0.7
+    metadata: null
+  sub_solutions: []
+  time_started: 1772611649.323554
+  time_finished: 1772611649.3236659
+  timed_out: false
+  time_elapsed: 0.00011181831359863281
+time_started: 1772611645.959171
+time_finished: 1772611649.3236659
+timed_out: false
+time_elapsed: 3.364494800567627

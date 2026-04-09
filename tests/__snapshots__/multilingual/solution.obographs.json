@@ -1,0 +1,153 @@
+{
+  "graphs": [
+    {
+      "id": "boomer:solution",
+      "meta": {
+        "basicPropertyValues": [
+          {
+            "pred": "boomer:confidence",
+            "val": "1.0"
+          },
+          {
+            "pred": "boomer:combinations",
+            "val": "10"
+          }
+        ]
+      },
+      "nodes": [
+        {
+          "id": "Begriff"
+        },
+        {
+          "id": "Datenschutz"
+        },
+        {
+          "id": "Geist"
+        },
+        {
+          "id": "Heim"
+        },
+        {
+          "id": "Privatsph\u00e4re"
+        },
+        {
+          "id": "Verstand"
+        },
+        {
+          "id": "Zuhause"
+        },
+        {
+          "id": "casa"
+        },
+        {
+          "id": "concept"
+        },
+        {
+          "id": "concepto"
+        },
+        {
+          "id": "hogar"
+        },
+        {
+          "id": "home"
+        },
+        {
+          "id": "mente"
+        },
+        {
+          "id": "mind"
+        },
+        {
+          "id": "privacidad"
+        },
+        {
+          "id": "privacy"
+        }
+      ],
+      "edges": [
+        {
+          "sub": "Datenschutz",
+          "pred": "owl:equivalentClass",
+          "obj": "Privatsph\u00e4re",
+          "meta": {
+            "basicPropertyValues": [
+              {
+                "pred": "boomer:posteriorProbability",
+                "val": "0.0"
+              },
+              {
+                "pred": "boomer:priorProbability",
+                "val": "0.4"
+              }
+            ]
+          }
+        },
+        {
+          "sub": "privacy",
+          "pred": "is_a",
+          "obj": "concept"
+        },
+        {
+          "sub": "home",
+          "pred": "is_a",
+          "obj": "concept"
+        },
+        {
+          "sub": "mind",
+          "pred": "is_a",
+          "obj": "concept"
+        },
+        {
+          "sub": "privacidad",
+          "pred": "is_a",
+          "obj": "concepto"
+        },
+        {
+          "sub": "casa",
+          "pred": "is_a",
+          "obj": "concepto"
+        },
+        {
+          "sub": "hogar",
+          "pred": "is_a",
+          "obj": "concepto"
+        },
+        {
+          "sub": "mente",
+          "pred": "is_a",
+          "obj": "concepto"
+        },
+        {
+          "sub": "Datenschutz",
+          "pred": "is_a",
+          "obj": "Begriff"
+        },
+        {
+          "sub": "Privatsph\u00e4re",
+          "pred": "is_a",
+          "obj": "Begriff"
+        },
+        {
+          "sub": "Zuhause",
+          "pred": "is_a",
+          "obj": "Begriff"
+        },
+        {
+          "sub": "Heim",
+          "pred": "is_a",
+          "obj": "Begriff"
+        },
+        {
+          "sub": "Geist",
+          "pred": "is_a",
+          "obj": "Begriff"
+        },
+        {
+          "sub": "Verstand",
+          "pred": "is_a",
+          "obj": "Begriff"
+        }
+      ]
+    }
+  ]
+}
