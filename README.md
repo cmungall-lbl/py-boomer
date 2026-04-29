@@ -1,10 +1,10 @@
-# BOOMER-PY
+# PY-BOOMER
 
-BOOMER-PY (Bayesian OWL Ontology MErgER in Python) is a probabilistic reasoning system for knowledge representation and ontological reasoning with uncertainty.
+PY-BOOMER (Bayesian OWL Ontology MErgER in Python) is a probabilistic reasoning system for knowledge representation and ontological reasoning with uncertainty.
 
 ## Overview
 
-BOOMER-PY enables reasoning over probabilistic facts and taxonomic relationships, finding the most likely consistent interpretation of potentially conflicting assertions. It uses a combination of graph-based reasoning and Bayesian probabilistic inference.
+PY-BOOMER enables reasoning over probabilistic facts and taxonomic relationships, finding the most likely consistent interpretation of potentially conflicting assertions. It uses a combination of graph-based reasoning and Bayesian probabilistic inference.
 
 Key features:
 - Represent probabilistic ontological statements
@@ -30,7 +30,7 @@ Key features:
 
 ## Use Cases
 
-BOOMER-PY is designed for:
+PY-BOOMER is designed for:
 - Merging ontologies with uncertain mapping relationships
 - Reasoning with probabilistic taxonomies
 - Resolving conflicts in knowledge bases
@@ -62,7 +62,7 @@ print(renderer.render(solution))
 
 ## Grid Search and Consensus Solutions
 
-BOOMER-PY supports grid search over hyperparameters with automatic aggregation and consensus building:
+PY-BOOMER supports grid search over hyperparameters with automatic aggregation and consensus building:
 
 ```python
 from boomer.model import KB, SearchConfig, GridSearch
@@ -104,8 +104,8 @@ The synthesized solution identifies mappings that are robustly accepted across p
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/boomer-py.git
-cd boomer-py
+git clone https://github.com/your-username/py-boomer.git
+cd py-boomer
 
 # Install dependencies
 pip install .
@@ -113,7 +113,7 @@ pip install .
 
 ## Development
 
-BOOMER-PY uses:
+PY-BOOMER uses:
 - NetworkX for graph-based reasoning
 - Pydantic for data modeling
 - Pytest for testing
