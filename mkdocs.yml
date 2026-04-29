@@ -1,7 +1,7 @@
 site_name: BOOMER
 site_description: Bayesian OWL Ontology MErgER - Probabilistic reasoning for ontology alignment
 site_author: Chris Mungall
-repo_url: https://github.com/monarch-initiative/boomer-py
+repo_url: https://github.com/cmungall-lbl/py-boomer
 
 theme:
   name: material
