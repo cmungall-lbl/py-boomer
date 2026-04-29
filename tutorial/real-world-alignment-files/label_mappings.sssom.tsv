@@ -1,0 +1,865 @@
+#mapping_set_id: boomer:label_match_candidates
+#mapping_tool: boomer-label-match
+#mapping_date: 2026-03-04
+#curie_map:
+#  CL: http://purl.obolibrary.org/obo/CL_
+#  BTO: http://purl.obolibrary.org/obo/BTO_
+#  skos: http://www.w3.org/2004/02/skos/core#
+#  semapv: https://w3id.org/semapv/vocab/
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	confidence
+CL:0000017	spermatocyte	skos:exactMatch	BTO:0001275	spermatocyte	semapv:LexicalMatching	0.7
+CL:0000018	spermatid	skos:exactMatch	BTO:0001274	spermatid	semapv:LexicalMatching	0.7
+CL:0000020	spermatogonium	skos:exactMatch	BTO:0000958	spermatogonium	semapv:LexicalMatching	0.7
+CL:0000023	oocyte	skos:exactMatch	BTO:0000964	oocyte	semapv:LexicalMatching	0.7
+CL:0000037	hematopoietic stem cell	skos:exactMatch	BTO:0000725	hematopoietic stem cell	semapv:LexicalMatching	0.7
+CL:0000038	erythroid progenitor cell	skos:exactMatch	BTO:0004911	erythroid progenitor cell	semapv:LexicalMatching	0.7
+CL:0000047	neural stem cell	skos:exactMatch	BTO:0002881	neural stem cell	semapv:LexicalMatching	0.7
+CL:0000056	myoblast	skos:exactMatch	BTO:0000222	myoblast	semapv:LexicalMatching	0.7
+CL:0000057	fibroblast	skos:exactMatch	BTO:0000452	fibroblast	semapv:LexicalMatching	0.7
+CL:0000058	chondroblast	skos:exactMatch	BTO:0003607	chondroblast	semapv:LexicalMatching	0.7
+CL:0000059	ameloblast	skos:exactMatch	BTO:0001663	ameloblast	semapv:LexicalMatching	0.7
+CL:0000060	odontoblast	skos:exactMatch	BTO:0001769	odontoblast	semapv:LexicalMatching	0.7
+CL:0000062	osteoblast	skos:exactMatch	BTO:0001593	osteoblast	semapv:LexicalMatching	0.7
+CL:0000066	epithelial cell	skos:exactMatch	BTO:0000414	epithelial cell	semapv:LexicalMatching	0.7
+CL:0000091	Kupffer cell	skos:exactMatch	BTO:0000685	Kupffer cell	semapv:LexicalMatching	0.7
+CL:0000092	osteoclast	skos:exactMatch	BTO:0000968	osteoclast	semapv:LexicalMatching	0.7
+CL:0000094	granulocyte	skos:exactMatch	BTO:0000539	granulocyte	semapv:LexicalMatching	0.7
+CL:0000097	mast cell	skos:exactMatch	BTO:0000830	mast cell	semapv:LexicalMatching	0.7
+CL:0000099	interneuron	skos:exactMatch	BTO:0003811	interneuron	semapv:LexicalMatching	0.7
+CL:0000108	cholinergic neuron	skos:exactMatch	BTO:0004902	cholinergic neuron	semapv:LexicalMatching	0.7
+CL:0000113	mononuclear phagocyte	skos:exactMatch	BTO:0001433	mononuclear phagocyte	semapv:LexicalMatching	0.7
+CL:0000115	endothelial cell	skos:exactMatch	BTO:0001176	endothelial cell	semapv:LexicalMatching	0.7
+CL:0000120	granule cell	skos:exactMatch	BTO:0003393	granule cell	semapv:LexicalMatching	0.7
+CL:0000125	glial cell	skos:exactMatch	BTO:0002606	glial cell	semapv:LexicalMatching	0.7
+CL:0000127	astrocyte	skos:exactMatch	BTO:0000099	astrocyte	semapv:LexicalMatching	0.7
+CL:0000128	oligodendrocyte	skos:exactMatch	BTO:0000962	oligodendrocyte	semapv:LexicalMatching	0.7
+CL:0000134	mesenchymal stem cell	skos:exactMatch	BTO:0003298	mesenchymal stem cell	semapv:LexicalMatching	0.7
+CL:0000136	adipocyte	skos:exactMatch	BTO:0000443	adipocyte	semapv:LexicalMatching	0.7
+CL:0000137	osteocyte	skos:exactMatch	BTO:0002038	osteocyte	semapv:LexicalMatching	0.7
+CL:0000138	chondrocyte	skos:exactMatch	BTO:0000249	chondrocyte	semapv:LexicalMatching	0.7
+CL:0000142	hyalocyte	skos:exactMatch	BTO:0004271	hyalocyte	semapv:LexicalMatching	0.7
+CL:0000148	melanocyte	skos:exactMatch	BTO:0000847	melanocyte	semapv:LexicalMatching	0.7
+CL:0000151	secretory cell	skos:exactMatch	BTO:0003659	secretory cell	semapv:LexicalMatching	0.7
+CL:0000160	goblet cell	skos:exactMatch	BTO:0001540	goblet cell	semapv:LexicalMatching	0.7
+CL:0000164	enteroendocrine cell	skos:exactMatch	BTO:0003865	enteroendocrine cell	semapv:LexicalMatching	0.7
+CL:0000165	neuroendocrine cell	skos:exactMatch	BTO:0002691	neuroendocrine cell	semapv:LexicalMatching	0.7
+CL:0000166	chromaffin cell	skos:exactMatch	BTO:0000259	chromaffin cell	semapv:LexicalMatching	0.7
+CL:0000175	luteal cell	skos:exactMatch	BTO:0003939	luteal cell	semapv:LexicalMatching	0.7
+CL:0000178	Leydig cell	skos:exactMatch	BTO:0000755	Leydig cell	semapv:LexicalMatching	0.7
+CL:0000182	hepatocyte	skos:exactMatch	BTO:0000575	hepatocyte	semapv:LexicalMatching	0.7
+CL:0000185	myoepithelial cell	skos:exactMatch	BTO:0002309	myoepithelial cell	semapv:LexicalMatching	0.7
+CL:0000192	smooth muscle cell	skos:exactMatch	BTO:0004576	smooth muscle cell	semapv:LexicalMatching	0.7
+CL:0000206	chemoreceptor cell	skos:exactMatch	BTO:0005729	chemoreceptor cell	semapv:LexicalMatching	0.7
+CL:0000210	photoreceptor cell	skos:exactMatch	BTO:0001060	photoreceptor cell	semapv:LexicalMatching	0.7
+CL:0000214	synovial cell	skos:exactMatch	BTO:0003652	synovial cell	semapv:LexicalMatching	0.7
+CL:0000216	Sertoli cell	skos:exactMatch	BTO:0001238	Sertoli cell	semapv:LexicalMatching	0.7
+CL:0000218	myelinating Schwann cell	skos:exactMatch	BTO:0004996	myelinating Schwann cell	semapv:LexicalMatching	0.7
+CL:0000232	erythrocyte	skos:exactMatch	BTO:0000424	erythrocyte	semapv:LexicalMatching	0.7
+CL:0000234	phagocyte	skos:exactMatch	BTO:0001044	phagocyte	semapv:LexicalMatching	0.7
+CL:0000235	macrophage	skos:exactMatch	BTO:0000801	macrophage	semapv:LexicalMatching	0.7
+CL:0000312	keratinocyte	skos:exactMatch	BTO:0000667	keratinocyte	semapv:LexicalMatching	0.7
+CL:0000317	sebocyte	skos:exactMatch	BTO:0004613	sebocyte	semapv:LexicalMatching	0.7
+CL:0000346	hair follicle dermal papilla cell	skos:exactMatch	BTO:0005569	hair follicle dermal papilla cell	semapv:LexicalMatching	0.7
+CL:0000362	epidermal cell	skos:exactMatch	BTO:0001470	epidermal cell	semapv:LexicalMatching	0.7
+CL:0000382	scolopale cell	skos:exactMatch	BTO:0005885	scolopale cell	semapv:LexicalMatching	0.7
+CL:0000421	coelomocyte	skos:exactMatch	BTO:0002856	coelomocyte	semapv:LexicalMatching	0.7
+CL:0000442	follicular dendritic cell	skos:exactMatch	BTO:0004267	follicular dendritic cell	semapv:LexicalMatching	0.7
+CL:0000448	white adipocyte	skos:exactMatch	BTO:0006429	white adipocyte	semapv:LexicalMatching	0.7
+CL:0000449	brown adipocyte	skos:exactMatch	BTO:0006430	brown adipocyte	semapv:LexicalMatching	0.7
+CL:0000451	dendritic cell	skos:exactMatch	BTO:0002042	dendritic cell	semapv:LexicalMatching	0.7
+CL:0000453	Langerhans cell	skos:exactMatch	BTO:0000705	Langerhans cell	semapv:LexicalMatching	0.7
+CL:0000486	garland cell	skos:exactMatch	BTO:0004596	garland cell	semapv:LexicalMatching	0.7
+CL:0000499	stromal cell	skos:exactMatch	BTO:0002064	stromal cell	semapv:LexicalMatching	0.7
+CL:0000501	granulosa cell	skos:exactMatch	BTO:0000542	granulosa cell	semapv:LexicalMatching	0.7
+CL:0000503	theca cell	skos:exactMatch	BTO:0002850	theca cell	semapv:LexicalMatching	0.7
+CL:0000504	enterochromaffin-like cell	skos:exactMatch	BTO:0002692	enterochromaffin-like cell	semapv:LexicalMatching	0.7
+CL:0000510	paneth cell	skos:exactMatch	BTO:0000993	paneth cell	semapv:LexicalMatching	0.7
+CL:0000540	neuron	skos:exactMatch	BTO:0000938	neuron	semapv:LexicalMatching	0.7
+CL:0000541	melanoblast	skos:exactMatch	BTO:0003217	melanoblast	semapv:LexicalMatching	0.7
+CL:0000542	lymphocyte	skos:exactMatch	BTO:0000775	lymphocyte	semapv:LexicalMatching	0.7
+CL:0000556	megakaryocyte	skos:exactMatch	BTO:0000843	megakaryocyte	semapv:LexicalMatching	0.7
+CL:0000558	reticulocyte	skos:exactMatch	BTO:0001173	reticulocyte	semapv:LexicalMatching	0.7
+CL:0000561	amacrine cell	skos:exactMatch	BTO:0004044	amacrine cell	semapv:LexicalMatching	0.7
+CL:0000563	endospore	skos:exactMatch	BTO:0002779	endospore	semapv:LexicalMatching	0.7
+CL:0000575	corneal epithelial cell	skos:exactMatch	BTO:0004298	corneal epithelial cell	semapv:LexicalMatching	0.7
+CL:0000576	monocyte	skos:exactMatch	BTO:0000876	monocyte	semapv:LexicalMatching	0.7
+CL:0000580	neutrophilic myelocyte	skos:exactMatch	BTO:0003455	neutrophilic myelocyte	semapv:LexicalMatching	0.7
+CL:0000581	peritoneal macrophage	skos:exactMatch	BTO:0001034	peritoneal macrophage	semapv:LexicalMatching	0.7
+CL:0000583	alveolar macrophage	skos:exactMatch	BTO:0000802	alveolar macrophage	semapv:LexicalMatching	0.7
+CL:0000584	enterocyte	skos:exactMatch	BTO:0000398	enterocyte	semapv:LexicalMatching	0.7
+CL:0000586	germ cell	skos:exactMatch	BTO:0000535	germ cell	semapv:LexicalMatching	0.7
+CL:0000588	odontoclast	skos:exactMatch	BTO:0002516	odontoclast	semapv:LexicalMatching	0.7
+CL:0000590	small luteal cell	skos:exactMatch	BTO:0005679	small luteal cell	semapv:LexicalMatching	0.7
+CL:0000592	large luteal cell	skos:exactMatch	BTO:0005680	large luteal cell	semapv:LexicalMatching	0.7
+CL:0000594	skeletal muscle satellite cell	skos:exactMatch	BTO:0005787	skeletal muscle satellite cell	semapv:LexicalMatching	0.7
+CL:0000598	pyramidal neuron	skos:exactMatch	BTO:0003102	pyramidal neuron	semapv:LexicalMatching	0.7
+CL:0000599	conidium	skos:exactMatch	BTO:0000283	conidium	semapv:LexicalMatching	0.7
+CL:0000607	ascospore	skos:exactMatch	BTO:0000097	ascospore	semapv:LexicalMatching	0.7
+CL:0000609	vestibular hair cell	skos:exactMatch	BTO:0005824	vestibular hair cell	semapv:LexicalMatching	0.7
+CL:0000612	eosinophilic myelocyte	skos:exactMatch	BTO:0003454	eosinophilic myelocyte	semapv:LexicalMatching	0.7
+CL:0000614	basophilic myelocyte	skos:exactMatch	BTO:0003456	basophilic myelocyte	semapv:LexicalMatching	0.7
+CL:0000615	basidiospore	skos:exactMatch	BTO:0002166	basidiospore	semapv:LexicalMatching	0.7
+CL:0000623	natural killer cell	skos:exactMatch	BTO:0000914	natural killer cell	semapv:LexicalMatching	0.7
+CL:0000630	supporting cell	skos:exactMatch	BTO:0002315	supporting cell	semapv:LexicalMatching	0.7
+CL:0000632	hepatic stellate cell	skos:exactMatch	BTO:0002741	hepatic stellate cell	semapv:LexicalMatching	0.7
+CL:0000636	Mueller cell	skos:exactMatch	BTO:0003064	Mueller cell	semapv:LexicalMatching	0.7
+CL:0000645	pituicyte	skos:exactMatch	BTO:0003793	pituicyte	semapv:LexicalMatching	0.7
+CL:0000646	basal cell	skos:exactMatch	BTO:0000939	basal cell	semapv:LexicalMatching	0.7
+CL:0000650	mesangial cell	skos:exactMatch	BTO:0000853	mesangial cell	semapv:LexicalMatching	0.7
+CL:0000652	pinealocyte	skos:exactMatch	BTO:0001068	pinealocyte	semapv:LexicalMatching	0.7
+CL:0000653	podocyte	skos:exactMatch	BTO:0002295	podocyte	semapv:LexicalMatching	0.7
+CL:0000654	primary oocyte	skos:exactMatch	BTO:0000512	primary oocyte	semapv:LexicalMatching	0.7
+CL:0000655	secondary oocyte	skos:exactMatch	BTO:0003094	secondary oocyte	semapv:LexicalMatching	0.7
+CL:0000656	primary spermatocyte	skos:exactMatch	BTO:0001115	primary spermatocyte	semapv:LexicalMatching	0.7
+CL:0000657	secondary spermatocyte	skos:exactMatch	BTO:0000709	secondary spermatocyte	semapv:LexicalMatching	0.7
+CL:0000669	pericyte	skos:exactMatch	BTO:0002441	pericyte	semapv:LexicalMatching	0.7
+CL:0000673	Kenyon cell	skos:exactMatch	BTO:0006033	Kenyon cell	semapv:LexicalMatching	0.7
+CL:0000700	dopaminergic neuron	skos:exactMatch	BTO:0004032	dopaminergic neuron	semapv:LexicalMatching	0.7
+CL:0000724	heterocyst	skos:exactMatch	BTO:0000600	heterocyst	semapv:LexicalMatching	0.7
+CL:0000737	striated muscle cell	skos:exactMatch	BTO:0002916	striated muscle cell	semapv:LexicalMatching	0.7
+CL:0000738	leukocyte	skos:exactMatch	BTO:0000751	leukocyte	semapv:LexicalMatching	0.7
+CL:0000740	retinal ganglion cell	skos:exactMatch	BTO:0001800	retinal ganglion cell	semapv:LexicalMatching	0.7
+CL:0000765	erythroblast	skos:exactMatch	BTO:0001571	erythroblast	semapv:LexicalMatching	0.7
+CL:0000767	basophil	skos:exactMatch	BTO:0000129	basophil	semapv:LexicalMatching	0.7
+CL:0000771	eosinophil	skos:exactMatch	BTO:0000399	eosinophil	semapv:LexicalMatching	0.7
+CL:0000775	neutrophil	skos:exactMatch	BTO:0000130	neutrophil	semapv:LexicalMatching	0.7
+CL:0000782	myeloid dendritic cell	skos:exactMatch	BTO:0004721	myeloid dendritic cell	semapv:LexicalMatching	0.7
+CL:0000784	plasmacytoid dendritic cell	skos:exactMatch	BTO:0004625	plasmacytoid dendritic cell	semapv:LexicalMatching	0.7
+CL:0000786	plasma cell	skos:exactMatch	BTO:0000392	plasma cell	semapv:LexicalMatching	0.7
+CL:0000835	myeloblast	skos:exactMatch	BTO:0000187	myeloblast	semapv:LexicalMatching	0.7
+CL:0000836	promyelocyte	skos:exactMatch	BTO:0005790	promyelocyte	semapv:LexicalMatching	0.7
+CL:0000850	serotonergic neuron	skos:exactMatch	BTO:0006205	serotonergic neuron	semapv:LexicalMatching	0.7
+CL:0000863	M1 macrophage	skos:exactMatch	BTO:0006110	M1 macrophage	semapv:LexicalMatching	0.7
+CL:0000890	M2 macrophage	skos:exactMatch	BTO:0006111	M2 macrophage	semapv:LexicalMatching	0.7
+CL:0000891	foam cell	skos:exactMatch	BTO:0003872	foam cell	semapv:LexicalMatching	0.7
+CL:0000893	thymocyte	skos:exactMatch	BTO:0001372	thymocyte	semapv:LexicalMatching	0.7
+CL:0000917	Tc1 cell	skos:exactMatch	BTO:0004793	TC1 cell	semapv:LexicalMatching	0.7
+CL:0000918	Tc2 cell	skos:exactMatch	BTO:0004794	TC2 cell	semapv:LexicalMatching	0.7
+CL:0000988	hematopoietic cell	skos:exactMatch	BTO:0000574	hematopoietic cell	semapv:LexicalMatching	0.7
+CL:0001006	dermal dendritic cell	skos:exactMatch	BTO:0004812	dermal dendritic cell	semapv:LexicalMatching	0.7
+CL:0001031	cerebellar granule cell	skos:exactMatch	BTO:0004278	cerebellar granule cell	semapv:LexicalMatching	0.7
+CL:0002064	pancreatic acinar cell	skos:exactMatch	BTO:0000028	pancreatic acinar cell	semapv:LexicalMatching	0.7
+CL:0002085	tanycyte	skos:exactMatch	BTO:0001953	tanycyte	semapv:LexicalMatching	0.7
+CL:0002088	interstitial cell of Cajal	skos:exactMatch	BTO:0003914	interstitial cell of Cajal	semapv:LexicalMatching	0.7
+CL:0002092	bone marrow cell	skos:exactMatch	BTO:0004850	bone marrow cell	semapv:LexicalMatching	0.7
+CL:0002144	capillary endothelial cell	skos:exactMatch	BTO:0004956	capillary endothelial cell	semapv:LexicalMatching	0.7
+CL:0002153	corneocyte	skos:exactMatch	BTO:0001943	corneocyte	semapv:LexicalMatching	0.7
+CL:0002173	extraglomerular mesangial cell	skos:exactMatch	BTO:0005159	extraglomerular mesangial cell	semapv:LexicalMatching	0.7
+CL:0002188	glomerular endothelial cell	skos:exactMatch	BTO:0004632	glomerular endothelial cell	semapv:LexicalMatching	0.7
+CL:0002193	myelocyte	skos:exactMatch	BTO:0000734	myelocyte	semapv:LexicalMatching	0.7
+CL:0002246	peripheral blood stem cell	skos:exactMatch	BTO:0002669	peripheral blood stem cell	semapv:LexicalMatching	0.7
+CL:0002248	pluripotent stem cell	skos:exactMatch	BTO:0006078	pluripotent stem cell	semapv:LexicalMatching	0.7
+CL:0002275	pancreatic PP cell	skos:exactMatch	BTO:0000805	pancreatic PP cell	semapv:LexicalMatching	0.7
+CL:0002322	embryonic stem cell	skos:exactMatch	BTO:0001086	embryonic stem cell	semapv:LexicalMatching	0.7
+CL:0002323	amniocyte	skos:exactMatch	BTO:0000066	amniocyte	semapv:LexicalMatching	0.7
+CL:0002328	bronchial epithelial cell	skos:exactMatch	BTO:0002922	bronchial epithelial cell	semapv:LexicalMatching	0.7
+CL:0002334	preadipocyte	skos:exactMatch	BTO:0001107	preadipocyte	semapv:LexicalMatching	0.7
+CL:0002363	keratocyte	skos:exactMatch	BTO:0005170	keratocyte	semapv:LexicalMatching	0.7
+CL:0002366	myometrial cell	skos:exactMatch	BTO:0004519	myometrial cell	semapv:LexicalMatching	0.7
+CL:0002372	myotube	skos:exactMatch	BTO:0001760	myotube	semapv:LexicalMatching	0.7
+CL:0002376	non-myelinating Schwann cell	skos:exactMatch	BTO:0004997	non-myelinating Schwann cell	semapv:LexicalMatching	0.7
+CL:0002488	trophoblast giant cell	skos:exactMatch	BTO:0005362	trophoblast giant cell	semapv:LexicalMatching	0.7
+CL:0002520	nephrocyte	skos:exactMatch	BTO:0004597	nephrocyte	semapv:LexicalMatching	0.7
+CL:0002539	aortic smooth muscle cell	skos:exactMatch	BTO:0004577	aortic smooth muscle cell	semapv:LexicalMatching	0.7
+CL:0002544	aortic endothelial cell	skos:exactMatch	BTO:0003245	aortic endothelial cell	semapv:LexicalMatching	0.7
+CL:0002563	intestinal epithelial cell	skos:exactMatch	BTO:0005937	intestinal epithelial cell	semapv:LexicalMatching	0.7
+CL:0002573	Schwann cell	skos:exactMatch	BTO:0001220	Schwann cell	semapv:LexicalMatching	0.7
+CL:0002598	bronchial smooth muscle cell	skos:exactMatch	BTO:0004402	bronchial smooth muscle cell	semapv:LexicalMatching	0.7
+CL:0002620	skin fibroblast	skos:exactMatch	BTO:0001255	skin fibroblast	semapv:LexicalMatching	0.7
+CL:0007010	preosteoblast	skos:exactMatch	BTO:0002051	preosteoblast	semapv:LexicalMatching	0.7
+CL:0007011	enteric neuron	skos:exactMatch	BTO:0006389	enteric neuron	semapv:LexicalMatching	0.7
+CL:0008002	skeletal muscle fiber	skos:exactMatch	BTO:0002319	skeletal muscle fiber	semapv:LexicalMatching	0.7
+CL:0008011	skeletal muscle satellite stem cell	skos:exactMatch	BTO:0006105	skeletal muscle satellite stem cell	semapv:LexicalMatching	0.7
+CL:0008012	quiescent skeletal muscle satellite cell	skos:exactMatch	BTO:0006103	quiescent skeletal muscle satellite cell	semapv:LexicalMatching	0.7
+CL:0008016	activated skeletal muscle satellite cell	skos:exactMatch	BTO:0006102	activated skeletal muscle satellite cell	semapv:LexicalMatching	0.7
+CL:0008019	mesenchymal cell	skos:exactMatch	BTO:0002625	mesenchymal cell	semapv:LexicalMatching	0.7
+CL:0008034	mural cell	skos:exactMatch	BTO:0004720	mural cell	semapv:LexicalMatching	0.7
+CL:0008036	extravillous trophoblast	skos:exactMatch	BTO:0002366	extravillous trophoblast	semapv:LexicalMatching	0.7
+CL:0009002	inflammatory cell	skos:exactMatch	BTO:0003861	inflammatory cell	semapv:LexicalMatching	0.7
+CL:0010017	zygote	skos:exactMatch	BTO:0000854	zygote	semapv:LexicalMatching	0.7
+CL:0011012	neural crest cell	skos:exactMatch	BTO:0003825	neural crest cell	semapv:LexicalMatching	0.7
+CL:0011028	olfactory ensheathing cell	skos:exactMatch	BTO:0002771	olfactory ensheathing cell	semapv:LexicalMatching	0.7
+CL:0011030	dermal microvascular endothelial cell	skos:exactMatch	BTO:0004574	dermal microvascular endothelial cell	semapv:LexicalMatching	0.7
+CL:0011031	monocyte-derived dendritic cell	skos:exactMatch	BTO:0002900	monocyte-derived dendritic cell	semapv:LexicalMatching	0.7
+CL:0011110	histaminergic neuron	skos:exactMatch	BTO:0005819	histaminergic neuron	semapv:LexicalMatching	0.7
+CL:0017005	lymphoblast	skos:exactMatch	BTO:0000772	lymphoblast	semapv:LexicalMatching	0.7
+CL:0017006	B-lymphoblast	skos:exactMatch	BTO:0001528	B-lymphoblast	semapv:LexicalMatching	0.7
+CL:1000347	colonocyte	skos:exactMatch	BTO:0000275	colonocyte	semapv:LexicalMatching	0.7
+CL:1000488	cholangiocyte	skos:exactMatch	BTO:0003164	cholangiocyte	semapv:LexicalMatching	0.7
+CL:1001435	periglomerular cell	skos:exactMatch	BTO:0003796	periglomerular cell	semapv:LexicalMatching	0.7
+CL:1001474	medium spiny neuron	skos:exactMatch	BTO:0004778	medium spiny neuron	semapv:LexicalMatching	0.7
+CL:1001502	mitral cell	skos:exactMatch	BTO:0001283	mitral cell	semapv:LexicalMatching	0.7
+CL:1001567	lung endothelial cell	skos:exactMatch	BTO:0005812	lung endothelial cell	semapv:LexicalMatching	0.7
+CL:1001568	pulmonary artery endothelial cell	skos:exactMatch	BTO:0001141	pulmonary artery endothelial cell	semapv:LexicalMatching	0.7
+CL:2000001	peripheral blood mononuclear cell	skos:exactMatch	BTO:0001025	peripheral blood mononuclear cell	semapv:LexicalMatching	0.7
+CL:2000002	decidual cell	skos:exactMatch	BTO:0002770	decidual cell	semapv:LexicalMatching	0.7
+CL:2000008	microvascular endothelial cell	skos:exactMatch	BTO:0003123	microvascular endothelial cell	semapv:LexicalMatching	0.7
+CL:2000016	lung microvascular endothelial cell	skos:exactMatch	BTO:0005738	lung microvascular endothelial cell	semapv:LexicalMatching	0.7
+CL:2000042	embryonic fibroblast	skos:exactMatch	BTO:0004725	embryonic fibroblast	semapv:LexicalMatching	0.7
+CL:2000044	brain microvascular endothelial cell	skos:exactMatch	BTO:0003636	brain microvascular endothelial cell	semapv:LexicalMatching	0.7
+CL:2000052	umbilical artery endothelial cell	skos:exactMatch	BTO:0004295	umbilical artery endothelial cell	semapv:LexicalMatching	0.7
+CL:2000064	ovarian surface epithelial cell	skos:exactMatch	BTO:0004484	ovarian surface epithelial cell	semapv:LexicalMatching	0.7
+CL:2000074	splenocyte	skos:exactMatch	BTO:0001598	splenocyte	semapv:LexicalMatching	0.7
+CL:4030030	peripheral blood lymphocyte	skos:exactMatch	BTO:0004729	peripheral blood lymphocyte	semapv:LexicalMatching	0.7
+CL:4030031	interstitial cell	skos:exactMatch	BTO:0004238	interstitial cell	semapv:LexicalMatching	0.7
+CL:4033014	peg cell	skos:exactMatch	BTO:0005588	peg cell	semapv:LexicalMatching	0.7
+CL:4033050	catecholaminergic neuron	skos:exactMatch	BTO:0004033	catecholaminergic neuron	semapv:LexicalMatching	0.7
+DHBA:10153	neural plate	skos:exactMatch	BTO:0001765	neural plate	semapv:LexicalMatching	0.7
+DHBA:10154	neural tube	skos:exactMatch	BTO:0001057	neural tube	semapv:LexicalMatching	0.7
+DHBA:10155	brain	skos:exactMatch	BTO:0000142	brain	semapv:LexicalMatching	0.7
+DHBA:10158	telencephalon	skos:exactMatch	BTO:0000239	telencephalon	semapv:LexicalMatching	0.7
+DHBA:10159	cerebral cortex	skos:exactMatch	BTO:0000233	cerebral cortex	semapv:LexicalMatching	0.7
+DHBA:10302	subiculum	skos:exactMatch	BTO:0003087	subiculum	semapv:LexicalMatching	0.7
+DHBA:10307	olfactory bulb	skos:exactMatch	BTO:0000961	olfactory bulb	semapv:LexicalMatching	0.7
+DHBA:10308	anterior olfactory nucleus	skos:exactMatch	BTO:0003649	anterior olfactory nucleus	semapv:LexicalMatching	0.7
+DHBA:10310	olfactory tubercle	skos:exactMatch	BTO:0001869	olfactory tubercle	semapv:LexicalMatching	0.7
+DHBA:10334	caudate nucleus	skos:exactMatch	BTO:0000211	caudate nucleus	semapv:LexicalMatching	0.7
+DHBA:10339	nucleus accumbens	skos:exactMatch	BTO:0001862	nucleus accumbens	semapv:LexicalMatching	0.7
+DHBA:10342	globus pallidus	skos:exactMatch	BTO:0002246	globus pallidus	semapv:LexicalMatching	0.7
+DHBA:10349	basal forebrain	skos:exactMatch	BTO:0002444	basal forebrain	semapv:LexicalMatching	0.7
+DHBA:10389	diencephalon	skos:exactMatch	BTO:0000342	diencephalon	semapv:LexicalMatching	0.7
+DHBA:10390	thalamus	skos:exactMatch	BTO:0001365	thalamus	semapv:LexicalMatching	0.7
+DHBA:10428	posterior nuclear complex of thalamus	skos:exactMatch	BTO:0002462	posterior nuclear complex of thalamus	semapv:LexicalMatching	0.7
+DHBA:10429	lateral geniculate nucleus	skos:exactMatch	BTO:0004366	lateral geniculate nucleus	semapv:LexicalMatching	0.7
+DHBA:10451	epithalamus	skos:exactMatch	BTO:0000175	epithalamus	semapv:LexicalMatching	0.7
+DHBA:10463	zona incerta	skos:exactMatch	BTO:0003146	zona incerta	semapv:LexicalMatching	0.7
+DHBA:10466	subthalamic nucleus	skos:exactMatch	BTO:0002252	subthalamic nucleus	semapv:LexicalMatching	0.7
+DHBA:10467	hypothalamus	skos:exactMatch	BTO:0000614	hypothalamus	semapv:LexicalMatching	0.7
+DHBA:10476	paraventricular nucleus of hypothalamus	skos:exactMatch	BTO:0002476	paraventricular nucleus of hypothalamus	semapv:LexicalMatching	0.7
+DHBA:10480	suprachiasmatic nucleus	skos:exactMatch	BTO:0001822	suprachiasmatic nucleus	semapv:LexicalMatching	0.7
+DHBA:10542	ventricular zone	skos:exactMatch	BTO:0003654	ventricular zone	semapv:LexicalMatching	0.7
+DHBA:10561	corpus callosum	skos:exactMatch	BTO:0000615	corpus callosum	semapv:LexicalMatching	0.7
+DHBA:10655	metencephalon	skos:exactMatch	BTO:0000673	metencephalon	semapv:LexicalMatching	0.7
+DHBA:10656	cerebellum	skos:exactMatch	BTO:0000232	cerebellum	semapv:LexicalMatching	0.7
+DHBA:10657	cerebellar cortex	skos:exactMatch	BTO:0000043	cerebellar cortex	semapv:LexicalMatching	0.7
+DHBA:10661	pons	skos:exactMatch	BTO:0001101	pons	semapv:LexicalMatching	0.7
+DHBA:12073	olfactory tract	skos:exactMatch	BTO:0003647	olfactory tract	semapv:LexicalMatching	0.7
+DHBA:12101	subcommissural organ	skos:exactMatch	BTO:0001820	subcommissural organ	semapv:LexicalMatching	0.7
+DHBA:12104	subfornical organ	skos:exactMatch	BTO:0006266	subfornical organ	semapv:LexicalMatching	0.7
+DHBA:12106	organum vasculosum laminae terminalis	skos:exactMatch	BTO:0006268	organum vasculosum laminae terminalis	semapv:LexicalMatching	0.7
+DHBA:12113	frontal lobe	skos:exactMatch	BTO:0000484	frontal lobe	semapv:LexicalMatching	0.7
+DHBA:12131	parietal lobe	skos:exactMatch	BTO:0001001	parietal lobe	semapv:LexicalMatching	0.7
+DHBA:12139	temporal lobe	skos:exactMatch	BTO:0001355	temporal lobe	semapv:LexicalMatching	0.7
+DHBA:12198	oculomotor nucleus	skos:exactMatch	BTO:0006504	oculomotor nucleus	semapv:LexicalMatching	0.7
+DHBA:12251	substantia nigra	skos:exactMatch	BTO:0000143	substantia nigra	semapv:LexicalMatching	0.7
+DHBA:12406	pontine nucleus	skos:exactMatch	BTO:0003396	pontine nucleus	semapv:LexicalMatching	0.7
+DHBA:12776	corticospinal tract	skos:exactMatch	BTO:0006132	corticospinal tract	semapv:LexicalMatching	0.7
+DHBA:12782	rubrospinal tract	skos:exactMatch	BTO:0006159	rubrospinal tract	semapv:LexicalMatching	0.7
+DHBA:12805	fourth ventricle	skos:exactMatch	BTO:0003426	fourth ventricle	semapv:LexicalMatching	0.7
+DHBA:12807	area postrema	skos:exactMatch	BTO:0003425	area postrema	semapv:LexicalMatching	0.7
+DHBA:12890	spinal cord	skos:exactMatch	BTO:0001279	spinal cord	semapv:LexicalMatching	0.7
+DHBA:13338	median eminence	skos:exactMatch	BTO:0001954	median eminence	semapv:LexicalMatching	0.7
+DHBA:15544	optic nerve	skos:exactMatch	BTO:0000966	optic nerve	semapv:LexicalMatching	0.7
+GO:0007588	excretion	skos:exactMatch	BTO:0000491	excretion	semapv:LexicalMatching	0.7
+GO:0031143	pseudopodium	skos:exactMatch	BTO:0002610	pseudopodium	semapv:LexicalMatching	0.7
+GO:0042151	nematocyst	skos:exactMatch	BTO:0000918	nematocyst	semapv:LexicalMatching	0.7
+GO:0043209	myelin sheath	skos:exactMatch	BTO:0000900	myelin sheath	semapv:LexicalMatching	0.7
+GO:0046903	secretion	skos:exactMatch	BTO:0002979	secretion	semapv:LexicalMatching	0.7
+GO:0097457	hippocampal mossy fiber	skos:exactMatch	BTO:0002654	hippocampal mossy fiber	semapv:LexicalMatching	0.7
+MBA:1065	Hindbrain	skos:exactMatch	BTO:0000672	hindbrain	semapv:LexicalMatching	0.7
+MBA:10671	Median eminence	skos:exactMatch	BTO:0001954	median eminence	semapv:LexicalMatching	0.7
+MBA:108	choroid plexus	skos:exactMatch	BTO:0000258	choroid plexus	semapv:LexicalMatching	0.7
+MBA:1097	Hypothalamus	skos:exactMatch	BTO:0000614	hypothalamus	semapv:LexicalMatching	0.7
+MBA:145	fourth ventricle	skos:exactMatch	BTO:0003426	fourth ventricle	semapv:LexicalMatching	0.7
+MBA:147	Locus ceruleus	skos:exactMatch	BTO:0001408	locus ceruleus	semapv:LexicalMatching	0.7
+MBA:159	Anterior olfactory nucleus	skos:exactMatch	BTO:0003649	anterior olfactory nucleus	semapv:LexicalMatching	0.7
+MBA:207	Area postrema	skos:exactMatch	BTO:0003425	area postrema	semapv:LexicalMatching	0.7
+MBA:286	Suprachiasmatic nucleus	skos:exactMatch	BTO:0001822	suprachiasmatic nucleus	semapv:LexicalMatching	0.7
+MBA:304325711	retina	skos:exactMatch	BTO:0001175	retina	semapv:LexicalMatching	0.7
+MBA:313	Midbrain	skos:exactMatch	BTO:0000138	midbrain	semapv:LexicalMatching	0.7
+MBA:338	Subfornical organ	skos:exactMatch	BTO:0006266	subfornical organ	semapv:LexicalMatching	0.7
+MBA:343	Brain stem	skos:exactMatch	BTO:0000146	brain stem	semapv:LexicalMatching	0.7
+MBA:35	Oculomotor nucleus	skos:exactMatch	BTO:0006504	oculomotor nucleus	semapv:LexicalMatching	0.7
+MBA:470	Subthalamic nucleus	skos:exactMatch	BTO:0002252	subthalamic nucleus	semapv:LexicalMatching	0.7
+MBA:502	Subiculum	skos:exactMatch	BTO:0003087	subiculum	semapv:LexicalMatching	0.7
+MBA:512	Cerebellum	skos:exactMatch	BTO:0000232	cerebellum	semapv:LexicalMatching	0.7
+MBA:528	Cerebellar cortex	skos:exactMatch	BTO:0000043	cerebellar cortex	semapv:LexicalMatching	0.7
+MBA:549	Thalamus	skos:exactMatch	BTO:0001365	thalamus	semapv:LexicalMatching	0.7
+MBA:56	Nucleus accumbens	skos:exactMatch	BTO:0001862	nucleus accumbens	semapv:LexicalMatching	0.7
+MBA:599626923	Subcommissural organ	skos:exactMatch	BTO:0001820	subcommissural organ	semapv:LexicalMatching	0.7
+MBA:688	Cerebral cortex	skos:exactMatch	BTO:0000233	cerebral cortex	semapv:LexicalMatching	0.7
+MBA:726	Dentate gyrus	skos:exactMatch	BTO:0002496	dentate gyrus	semapv:LexicalMatching	0.7
+MBA:754	Olfactory tubercle	skos:exactMatch	BTO:0001869	olfactory tubercle	semapv:LexicalMatching	0.7
+MBA:771	Pons	skos:exactMatch	BTO:0001101	pons	semapv:LexicalMatching	0.7
+MBA:776	corpus callosum	skos:exactMatch	BTO:0000615	corpus callosum	semapv:LexicalMatching	0.7
+MBA:784	corticospinal tract	skos:exactMatch	BTO:0006132	corticospinal tract	semapv:LexicalMatching	0.7
+MBA:797	Zona incerta	skos:exactMatch	BTO:0003146	zona incerta	semapv:LexicalMatching	0.7
+MBA:808	glossopharyngeal nerve	skos:exactMatch	BTO:0004979	glossopharyngeal nerve	semapv:LexicalMatching	0.7
+MBA:81	lateral ventricle	skos:exactMatch	BTO:0000879	lateral ventricle	semapv:LexicalMatching	0.7
+MBA:813	hypoglossal nerve	skos:exactMatch	BTO:0003386	hypoglossal nerve	semapv:LexicalMatching	0.7
+MBA:840	olfactory nerve	skos:exactMatch	BTO:0003648	olfactory nerve	semapv:LexicalMatching	0.7
+MBA:848	optic nerve	skos:exactMatch	BTO:0000966	optic nerve	semapv:LexicalMatching	0.7
+MBA:863	rubrospinal tract	skos:exactMatch	BTO:0006159	rubrospinal tract	semapv:LexicalMatching	0.7
+MBA:901	trigeminal nerve	skos:exactMatch	BTO:0001072	trigeminal nerve	semapv:LexicalMatching	0.7
+MBA:917	vagus nerve	skos:exactMatch	BTO:0003472	vagus nerve	semapv:LexicalMatching	0.7
+MBA:933	vestibulocochlear nerve	skos:exactMatch	BTO:0003490	vestibulocochlear nerve	semapv:LexicalMatching	0.7
+MBA:958	Epithalamus	skos:exactMatch	BTO:0000175	epithalamus	semapv:LexicalMatching	0.7
+MBA:997	brain	skos:exactMatch	BTO:0000142	brain	semapv:LexicalMatching	0.7
+NCBITaxon:1	root	skos:exactMatch	BTO:0001188	root	semapv:LexicalMatching	0.7
+PATO:0001190	juvenile	skos:exactMatch	BTO:0002168	juvenile	semapv:LexicalMatching	0.7
+UBERON:0000002	uterine cervix	skos:exactMatch	BTO:0001421	uterine cervix	semapv:LexicalMatching	0.7
+UBERON:0000004	nose	skos:exactMatch	BTO:0000840	nose	semapv:LexicalMatching	0.7
+UBERON:0000009	submucosa	skos:exactMatch	BTO:0002107	submucosa	semapv:LexicalMatching	0.7
+UBERON:0000010	peripheral nervous system	skos:exactMatch	BTO:0001028	peripheral nervous system	semapv:LexicalMatching	0.7
+UBERON:0000011	parasympathetic nervous system	skos:exactMatch	BTO:0001833	parasympathetic nervous system	semapv:LexicalMatching	0.7
+UBERON:0000013	sympathetic nervous system	skos:exactMatch	BTO:0001832	sympathetic nervous system	semapv:LexicalMatching	0.7
+UBERON:0000016	endocrine pancreas	skos:exactMatch	BTO:0000650	endocrine pancreas	semapv:LexicalMatching	0.7
+UBERON:0000017	exocrine pancreas	skos:exactMatch	BTO:0000434	exocrine pancreas	semapv:LexicalMatching	0.7
+UBERON:0000018	compound eye	skos:exactMatch	BTO:0001921	compound eye	semapv:LexicalMatching	0.7
+UBERON:0000020	sense organ	skos:exactMatch	BTO:0000202	sense organ	semapv:LexicalMatching	0.7
+UBERON:0000029	lymph node	skos:exactMatch	BTO:0000784	lymph node	semapv:LexicalMatching	0.7
+UBERON:0000030	lamina propria	skos:exactMatch	BTO:0002330	lamina propria	semapv:LexicalMatching	0.7
+UBERON:0000033	head	skos:exactMatch	BTO:0000282	head	semapv:LexicalMatching	0.7
+UBERON:0000038	follicular fluid	skos:exactMatch	BTO:0004383	follicular fluid	semapv:LexicalMatching	0.7
+UBERON:0000043	tendon	skos:exactMatch	BTO:0001356	tendon	semapv:LexicalMatching	0.7
+UBERON:0000045	ganglion	skos:exactMatch	BTO:0000497	ganglion	semapv:LexicalMatching	0.7
+UBERON:0000053	macula lutea	skos:exactMatch	BTO:0003015	macula lutea	semapv:LexicalMatching	0.7
+UBERON:0000056	ureter	skos:exactMatch	BTO:0001409	ureter	semapv:LexicalMatching	0.7
+UBERON:0000057	urethra	skos:exactMatch	BTO:0001426	urethra	semapv:LexicalMatching	0.7
+UBERON:0000059	large intestine	skos:exactMatch	BTO:0000706	large intestine	semapv:LexicalMatching	0.7
+UBERON:0000074	renal glomerulus	skos:exactMatch	BTO:0000530	renal glomerulus	semapv:LexicalMatching	0.7
+UBERON:0000076	external ectoderm	skos:exactMatch	BTO:0006242	external ectoderm	semapv:LexicalMatching	0.7
+UBERON:0000079	male reproductive system	skos:exactMatch	BTO:0000082	male reproductive system	semapv:LexicalMatching	0.7
+UBERON:0000084	ureteric bud	skos:exactMatch	BTO:0001646	ureteric bud	semapv:LexicalMatching	0.7
+UBERON:0000085	morula	skos:exactMatch	BTO:0001508	morula	semapv:LexicalMatching	0.7
+UBERON:0000086	zona pellucida	skos:exactMatch	BTO:0003135	zona pellucida	semapv:LexicalMatching	0.7
+UBERON:0000088	trophoblast	skos:exactMatch	BTO:0001079	trophoblast	semapv:LexicalMatching	0.7
+UBERON:0000115	lung epithelium	skos:exactMatch	BTO:0001653	lung epithelium	semapv:LexicalMatching	0.7
+UBERON:0000118	lung bud	skos:exactMatch	BTO:0001643	lung bud	semapv:LexicalMatching	0.7
+UBERON:0000121	perineurium	skos:exactMatch	BTO:0003153	perineurium	semapv:LexicalMatching	0.7
+UBERON:0000124	epineurium	skos:exactMatch	BTO:0003154	epineurium	semapv:LexicalMatching	0.7
+UBERON:0000156	theca externa	skos:exactMatch	BTO:0002852	theca externa	semapv:LexicalMatching	0.7
+UBERON:0000157	theca interna	skos:exactMatch	BTO:0002851	theca interna	semapv:LexicalMatching	0.7
+UBERON:0000159	anal canal	skos:exactMatch	BTO:0001978	anal canal	semapv:LexicalMatching	0.7
+UBERON:0000160	intestine	skos:exactMatch	BTO:0000648	intestine	semapv:LexicalMatching	0.7
+UBERON:0000165	mouth	skos:exactMatch	BTO:0001090	mouth	semapv:LexicalMatching	0.7
+UBERON:0000173	amniotic fluid	skos:exactMatch	BTO:0000068	amniotic fluid	semapv:LexicalMatching	0.7
+UBERON:0000178	blood	skos:exactMatch	BTO:0000089	blood	semapv:LexicalMatching	0.7
+UBERON:0000304	tendon sheath	skos:exactMatch	BTO:0000051	tendon sheath	semapv:LexicalMatching	0.7
+UBERON:0000305	amnion	skos:exactMatch	BTO:0000065	amnion	semapv:LexicalMatching	0.7
+UBERON:0000307	blastula	skos:exactMatch	BTO:0000128	blastula	semapv:LexicalMatching	0.7
+UBERON:0000309	body wall	skos:exactMatch	BTO:0000139	body wall	semapv:LexicalMatching	0.7
+UBERON:0000310	breast	skos:exactMatch	BTO:0000149	breast	semapv:LexicalMatching	0.7
+UBERON:0000314	cecum mucosa	skos:exactMatch	BTO:0000213	cecum mucosa	semapv:LexicalMatching	0.7
+UBERON:0000315	subarachnoid space	skos:exactMatch	BTO:0000230	subarachnoid space	semapv:LexicalMatching	0.7
+UBERON:0000316	cervical mucus	skos:exactMatch	BTO:0000242	cervical mucus	semapv:LexicalMatching	0.7
+UBERON:0000317	colonic mucosa	skos:exactMatch	BTO:0000271	colonic mucosa	semapv:LexicalMatching	0.7
+UBERON:0000320	duodenal mucosa	skos:exactMatch	BTO:0000367	duodenal mucosa	semapv:LexicalMatching	0.7
+UBERON:0000325	gastric gland	skos:exactMatch	BTO:0000503	gastric gland	semapv:LexicalMatching	0.7
+UBERON:0000326	pancreatic juice	skos:exactMatch	BTO:0000504	pancreatic juice	semapv:LexicalMatching	0.7
+UBERON:0000328	gut wall	skos:exactMatch	BTO:0000547	gut wall	semapv:LexicalMatching	0.7
+UBERON:0000331	ileal mucosa	skos:exactMatch	BTO:0000619	ileal mucosa	semapv:LexicalMatching	0.7
+UBERON:0000332	yellow bone marrow	skos:exactMatch	BTO:0000635	yellow bone marrow	semapv:LexicalMatching	0.7
+UBERON:0000333	intestinal gland	skos:exactMatch	BTO:0000640	intestinal gland	semapv:LexicalMatching	0.7
+UBERON:0000344	mucosa	skos:exactMatch	BTO:0000886	mucosa	semapv:LexicalMatching	0.7
+UBERON:0000348	ophthalmic nerve	skos:exactMatch	BTO:0000926	ophthalmic nerve	semapv:LexicalMatching	0.7
+UBERON:0000349	limbic system	skos:exactMatch	BTO:0000928	limbic system	semapv:LexicalMatching	0.7
+UBERON:0000351	nuchal ligament	skos:exactMatch	BTO:0000952	nuchal ligament	semapv:LexicalMatching	0.7
+UBERON:0000353	parenchyma	skos:exactMatch	BTO:0001539	parenchyma	semapv:LexicalMatching	0.7
+UBERON:0000355	pharyngeal mucosa	skos:exactMatch	BTO:0001047	pharyngeal mucosa	semapv:LexicalMatching	0.7
+UBERON:0000358	blastocyst	skos:exactMatch	BTO:0001099	blastocyst	semapv:LexicalMatching	0.7
+UBERON:0000361	red bone marrow	skos:exactMatch	BTO:0001160	red bone marrow	semapv:LexicalMatching	0.7
+UBERON:0000362	renal medulla	skos:exactMatch	BTO:0001167	renal medulla	semapv:LexicalMatching	0.7
+UBERON:0000369	corpus striatum	skos:exactMatch	BTO:0001311	corpus striatum	semapv:LexicalMatching	0.7
+UBERON:0000371	syncytiotrophoblast	skos:exactMatch	BTO:0001335	syncytiotrophoblast	semapv:LexicalMatching	0.7
+UBERON:0000375	mandibular nerve	skos:exactMatch	BTO:0001375	mandibular nerve	semapv:LexicalMatching	0.7
+UBERON:0000377	maxillary nerve	skos:exactMatch	BTO:0001378	maxillary nerve	semapv:LexicalMatching	0.7
+UBERON:0000378	tongue muscle	skos:exactMatch	BTO:0001386	tongue muscle	semapv:LexicalMatching	0.7
+UBERON:0000379	tracheal mucosa	skos:exactMatch	BTO:0001390	tracheal mucosa	semapv:LexicalMatching	0.7
+UBERON:0000382	apocrine sweat gland	skos:exactMatch	BTO:0001458	apocrine sweat gland	semapv:LexicalMatching	0.7
+UBERON:0000389	lens cortex	skos:exactMatch	BTO:0001632	lens cortex	semapv:LexicalMatching	0.7
+UBERON:0000390	lens nucleus	skos:exactMatch	BTO:0001633	lens nucleus	semapv:LexicalMatching	0.7
+UBERON:0000391	leptomeninx	skos:exactMatch	BTO:0001634	leptomeninx	semapv:LexicalMatching	0.7
+UBERON:0000395	cochlear ganglion	skos:exactMatch	BTO:0001688	cochlear ganglion	semapv:LexicalMatching	0.7
+UBERON:0000397	colonic epithelium	skos:exactMatch	BTO:0001709	colonic epithelium	semapv:LexicalMatching	0.7
+UBERON:0000399	jejunal mucosa	skos:exactMatch	BTO:0001742	jejunal mucosa	semapv:LexicalMatching	0.7
+UBERON:0000400	jejunal epithelium	skos:exactMatch	BTO:0001743	jejunal epithelium	semapv:LexicalMatching	0.7
+UBERON:0000402	nasal vestibule	skos:exactMatch	BTO:0001761	nasal vestibule	semapv:LexicalMatching	0.7
+UBERON:0000403	scalp	skos:exactMatch	BTO:0001809	scalp	semapv:LexicalMatching	0.7
+UBERON:0000409	serous gland	skos:exactMatch	BTO:0001837	serous gland	semapv:LexicalMatching	0.7
+UBERON:0000410	bronchial mucosa	skos:exactMatch	BTO:0001846	bronchial mucosa	semapv:LexicalMatching	0.7
+UBERON:0000412	dermal papilla	skos:exactMatch	BTO:0001858	dermal papilla	semapv:LexicalMatching	0.7
+UBERON:0000414	mucous gland	skos:exactMatch	BTO:0001979	mucous gland	semapv:LexicalMatching	0.7
+UBERON:0000415	artery wall	skos:exactMatch	BTO:0002009	artery wall	semapv:LexicalMatching	0.7
+UBERON:0000420	myoepithelium	skos:exactMatch	BTO:0002308	myoepithelium	semapv:LexicalMatching	0.7
+UBERON:0000423	eccrine sweat gland	skos:exactMatch	BTO:0002323	eccrine sweat gland	semapv:LexicalMatching	0.7
+UBERON:0000424	gastric pit	skos:exactMatch	BTO:0002364	gastric pit	semapv:LexicalMatching	0.7
+UBERON:0000429	enteric plexus	skos:exactMatch	BTO:0002437	enteric plexus	semapv:LexicalMatching	0.7
+UBERON:0000437	arachnoid barrier layer	skos:exactMatch	BTO:0002498	arachnoid barrier layer	semapv:LexicalMatching	0.7
+UBERON:0000439	arachnoid trabecula	skos:exactMatch	BTO:0002500	arachnoid trabecula	semapv:LexicalMatching	0.7
+UBERON:0000440	trabecula	skos:exactMatch	BTO:0002501	trabecula	semapv:LexicalMatching	0.7
+UBERON:0000442	right testicular vein	skos:exactMatch	BTO:0002679	right testicular vein	semapv:LexicalMatching	0.7
+UBERON:0000443	left testicular vein	skos:exactMatch	BTO:0002680	left testicular vein	semapv:LexicalMatching	0.7
+UBERON:0000444	lymphoid follicle	skos:exactMatch	BTO:0002684	lymphoid follicle	semapv:LexicalMatching	0.7
+UBERON:0000454	cerebral subcortex	skos:exactMatch	BTO:0002858	cerebral subcortex	semapv:LexicalMatching	0.7
+UBERON:0000457	cavernous artery	skos:exactMatch	BTO:0002996	cavernous artery	semapv:LexicalMatching	0.7
+UBERON:0000458	endocervix	skos:exactMatch	BTO:0003002	endocervix	semapv:LexicalMatching	0.7
+UBERON:0000459	uterine wall	skos:exactMatch	BTO:0003083	uterine wall	semapv:LexicalMatching	0.7
+UBERON:0000473	testis	skos:exactMatch	BTO:0001363	testis	semapv:LexicalMatching	0.7
+UBERON:0000474	female reproductive system	skos:exactMatch	BTO:0000083	female reproductive system	semapv:LexicalMatching	0.7
+UBERON:0000483	epithelium	skos:exactMatch	BTO:0000416	epithelium	semapv:LexicalMatching	0.7
+UBERON:0000916	abdomen	skos:exactMatch	BTO:0000020	abdomen	semapv:LexicalMatching	0.7
+UBERON:0000922	embryo	skos:exactMatch	BTO:0000379	embryo	semapv:LexicalMatching	0.7
+UBERON:0000923	germ layer	skos:exactMatch	BTO:0000556	germ layer	semapv:LexicalMatching	0.7
+UBERON:0000924	ectoderm	skos:exactMatch	BTO:0000315	ectoderm	semapv:LexicalMatching	0.7
+UBERON:0000925	endoderm	skos:exactMatch	BTO:0000800	endoderm	semapv:LexicalMatching	0.7
+UBERON:0000926	mesoderm	skos:exactMatch	BTO:0000839	mesoderm	semapv:LexicalMatching	0.7
+UBERON:0000930	stomodeum	skos:exactMatch	BTO:0004224	stomodeum	semapv:LexicalMatching	0.7
+UBERON:0000939	imaginal disc	skos:exactMatch	BTO:0004658	imaginal disc	semapv:LexicalMatching	0.7
+UBERON:0000945	stomach	skos:exactMatch	BTO:0001307	stomach	semapv:LexicalMatching	0.7
+UBERON:0000947	aorta	skos:exactMatch	BTO:0000135	aorta	semapv:LexicalMatching	0.7
+UBERON:0000948	heart	skos:exactMatch	BTO:0000562	heart	semapv:LexicalMatching	0.7
+UBERON:0000955	brain	skos:exactMatch	BTO:0000142	brain	semapv:LexicalMatching	0.7
+UBERON:0000956	cerebral cortex	skos:exactMatch	BTO:0000233	cerebral cortex	semapv:LexicalMatching	0.7
+UBERON:0000961	thoracic ganglion	skos:exactMatch	BTO:0001831	thoracic ganglion	semapv:LexicalMatching	0.7
+UBERON:0000964	cornea	skos:exactMatch	BTO:0000286	cornea	semapv:LexicalMatching	0.7
+UBERON:0000966	retina	skos:exactMatch	BTO:0001175	retina	semapv:LexicalMatching	0.7
+UBERON:0000971	ommatidium	skos:exactMatch	BTO:0001922	ommatidium	semapv:LexicalMatching	0.7
+UBERON:0000974	neck	skos:exactMatch	BTO:0000420	neck	semapv:LexicalMatching	0.7
+UBERON:0000975	sternum	skos:exactMatch	BTO:0001302	sternum	semapv:LexicalMatching	0.7
+UBERON:0000977	pleura	skos:exactMatch	BTO:0001791	pleura	semapv:LexicalMatching	0.7
+UBERON:0000979	tibia	skos:exactMatch	BTO:0001252	tibia	semapv:LexicalMatching	0.7
+UBERON:0000981	femur	skos:exactMatch	BTO:0001284	femur	semapv:LexicalMatching	0.7
+UBERON:0000988	pons	skos:exactMatch	BTO:0001101	pons	semapv:LexicalMatching	0.7
+UBERON:0000989	penis	skos:exactMatch	BTO:0000405	penis	semapv:LexicalMatching	0.7
+UBERON:0000990	reproductive system	skos:exactMatch	BTO:0000081	reproductive system	semapv:LexicalMatching	0.7
+UBERON:0000991	gonad	skos:exactMatch	BTO:0000534	gonad	semapv:LexicalMatching	0.7
+UBERON:0000992	ovary	skos:exactMatch	BTO:0000975	ovary	semapv:LexicalMatching	0.7
+UBERON:0000993	oviduct	skos:exactMatch	BTO:0000980	oviduct	semapv:LexicalMatching	0.7
+UBERON:0000995	uterus	skos:exactMatch	BTO:0001424	uterus	semapv:LexicalMatching	0.7
+UBERON:0000996	vagina	skos:exactMatch	BTO:0000243	vagina	semapv:LexicalMatching	0.7
+UBERON:0000998	seminal vesicle	skos:exactMatch	BTO:0001234	seminal vesicle	semapv:LexicalMatching	0.7
+UBERON:0000999	ejaculatory duct	skos:exactMatch	BTO:0001580	ejaculatory duct	semapv:LexicalMatching	0.7
+UBERON:0001000	vas deferens	skos:exactMatch	BTO:0001427	vas deferens	semapv:LexicalMatching	0.7
+UBERON:0001004	respiratory system	skos:exactMatch	BTO:0000203	respiratory system	semapv:LexicalMatching	0.7
+UBERON:0001013	adipose tissue	skos:exactMatch	BTO:0001487	adipose tissue	semapv:LexicalMatching	0.7
+UBERON:0001016	nervous system	skos:exactMatch	BTO:0001484	nervous system	semapv:LexicalMatching	0.7
+UBERON:0001017	central nervous system	skos:exactMatch	BTO:0000227	central nervous system	semapv:LexicalMatching	0.7
+UBERON:0001021	nerve	skos:exactMatch	BTO:0000925	nerve	semapv:LexicalMatching	0.7
+UBERON:0001040	yolk sac	skos:exactMatch	BTO:0001471	yolk sac	semapv:LexicalMatching	0.7
+UBERON:0001041	foregut	skos:exactMatch	BTO:0000507	foregut	semapv:LexicalMatching	0.7
+UBERON:0001043	esophagus	skos:exactMatch	BTO:0000959	esophagus	semapv:LexicalMatching	0.7
+UBERON:0001045	midgut	skos:exactMatch	BTO:0000863	midgut	semapv:LexicalMatching	0.7
+UBERON:0001046	hindgut	skos:exactMatch	BTO:0000510	hindgut	semapv:LexicalMatching	0.7
+UBERON:0001048	primordium	skos:exactMatch	BTO:0001886	primordium	semapv:LexicalMatching	0.7
+UBERON:0001049	neural tube	skos:exactMatch	BTO:0001057	neural tube	semapv:LexicalMatching	0.7
+UBERON:0001052	rectum	skos:exactMatch	BTO:0001158	rectum	semapv:LexicalMatching	0.7
+UBERON:0001054	Malpighian tubule	skos:exactMatch	BTO:0000810	malpighian tubule	semapv:LexicalMatching	0.7
+UBERON:0001058	mushroom body	skos:exactMatch	BTO:0002675	mushroom body	semapv:LexicalMatching	0.7
+UBERON:0001070	external carotid artery	skos:exactMatch	BTO:0004696	external carotid artery	semapv:LexicalMatching	0.7
+UBERON:0001072	inferior vena cava	skos:exactMatch	BTO:0002682	inferior vena cava	semapv:LexicalMatching	0.7
+UBERON:0001087	pleural fluid	skos:exactMatch	BTO:0003080	pleural fluid	semapv:LexicalMatching	0.7
+UBERON:0001088	urine	skos:exactMatch	BTO:0001419	urine	semapv:LexicalMatching	0.7
+UBERON:0001089	sweat	skos:exactMatch	BTO:0001254	sweat	semapv:LexicalMatching	0.7
+UBERON:0001103	diaphragm	skos:exactMatch	BTO:0000341	diaphragm	semapv:LexicalMatching	0.7
+UBERON:0001132	parathyroid gland	skos:exactMatch	BTO:0000997	parathyroid gland	semapv:LexicalMatching	0.7
+UBERON:0001136	mesothelium	skos:exactMatch	BTO:0002422	mesothelium	semapv:LexicalMatching	0.7
+UBERON:0001137	dorsum	skos:exactMatch	BTO:0001713	dorsum	semapv:LexicalMatching	0.7
+UBERON:0001138	superior mesenteric vein	skos:exactMatch	BTO:0002783	superior mesenteric vein	semapv:LexicalMatching	0.7
+UBERON:0001140	renal vein	skos:exactMatch	BTO:0002681	renal vein	semapv:LexicalMatching	0.7
+UBERON:0001144	testicular vein	skos:exactMatch	BTO:0002678	testicular vein	semapv:LexicalMatching	0.7
+UBERON:0001154	vermiform appendix	skos:exactMatch	BTO:0000084	vermiform appendix	semapv:LexicalMatching	0.7
+UBERON:0001155	colon	skos:exactMatch	BTO:0000269	colon	semapv:LexicalMatching	0.7
+UBERON:0001179	peritoneal cavity	skos:exactMatch	BTO:0001782	peritoneal cavity	semapv:LexicalMatching	0.7
+UBERON:0001182	superior mesenteric artery	skos:exactMatch	BTO:0002303	superior mesenteric artery	semapv:LexicalMatching	0.7
+UBERON:0001183	inferior mesenteric artery	skos:exactMatch	BTO:0002302	inferior mesenteric artery	semapv:LexicalMatching	0.7
+UBERON:0001184	renal artery	skos:exactMatch	BTO:0001165	renal artery	semapv:LexicalMatching	0.7
+UBERON:0001193	hepatic artery	skos:exactMatch	BTO:0004307	hepatic artery	semapv:LexicalMatching	0.7
+UBERON:0001212	duodenal gland	skos:exactMatch	BTO:0002376	duodenal gland	semapv:LexicalMatching	0.7
+UBERON:0001215	inferior mesenteric vein	skos:exactMatch	BTO:0002782	inferior mesenteric vein	semapv:LexicalMatching	0.7
+UBERON:0001228	renal papilla	skos:exactMatch	BTO:0003925	renal papilla	semapv:LexicalMatching	0.7
+UBERON:0001229	renal corpuscle	skos:exactMatch	BTO:0000333	renal corpuscle	semapv:LexicalMatching	0.7
+UBERON:0001235	adrenal cortex	skos:exactMatch	BTO:0000045	adrenal cortex	semapv:LexicalMatching	0.7
+UBERON:0001236	adrenal medulla	skos:exactMatch	BTO:0000049	adrenal medulla	semapv:LexicalMatching	0.7
+UBERON:0001242	intestinal mucosa	skos:exactMatch	BTO:0000642	intestinal mucosa	semapv:LexicalMatching	0.7
+UBERON:0001245	anus	skos:exactMatch	BTO:0001680	anus	semapv:LexicalMatching	0.7
+UBERON:0001255	urinary bladder	skos:exactMatch	BTO:0001418	urinary bladder	semapv:LexicalMatching	0.7
+UBERON:0001264	pancreas	skos:exactMatch	BTO:0000988	pancreas	semapv:LexicalMatching	0.7
+UBERON:0001268	peritoneal fluid	skos:exactMatch	BTO:0001031	peritoneal fluid	semapv:LexicalMatching	0.7
+UBERON:0001277	intestinal epithelium	skos:exactMatch	BTO:0000781	intestinal epithelium	semapv:LexicalMatching	0.7
+UBERON:0001285	nephron	skos:exactMatch	BTO:0000924	nephron	semapv:LexicalMatching	0.7
+UBERON:0001296	myometrium	skos:exactMatch	BTO:0000907	myometrium	semapv:LexicalMatching	0.7
+UBERON:0001299	glans penis	skos:exactMatch	BTO:0003118	glans penis	semapv:LexicalMatching	0.7
+UBERON:0001301	epididymis	skos:exactMatch	BTO:0000408	epididymis	semapv:LexicalMatching	0.7
+UBERON:0001305	ovarian follicle	skos:exactMatch	BTO:0000475	ovarian follicle	semapv:LexicalMatching	0.7
+UBERON:0001308	external iliac artery	skos:exactMatch	BTO:0004666	external iliac artery	semapv:LexicalMatching	0.7
+UBERON:0001309	internal iliac artery	skos:exactMatch	BTO:0004667	internal iliac artery	semapv:LexicalMatching	0.7
+UBERON:0001310	umbilical artery	skos:exactMatch	BTO:0000841	umbilical artery	semapv:LexicalMatching	0.7
+UBERON:0001322	sciatic nerve	skos:exactMatch	BTO:0001221	sciatic nerve	semapv:LexicalMatching	0.7
+UBERON:0001333	male urethra	skos:exactMatch	BTO:0004089	male urethra	semapv:LexicalMatching	0.7
+UBERON:0001334	female urethra	skos:exactMatch	BTO:0004088	female urethra	semapv:LexicalMatching	0.7
+UBERON:0001335	prostatic urethra	skos:exactMatch	BTO:0003163	prostatic urethra	semapv:LexicalMatching	0.7
+UBERON:0001347	white adipose tissue	skos:exactMatch	BTO:0001456	white adipose tissue	semapv:LexicalMatching	0.7
+UBERON:0001348	brown adipose tissue	skos:exactMatch	BTO:0000156	brown adipose tissue	semapv:LexicalMatching	0.7
+UBERON:0001359	cerebrospinal fluid	skos:exactMatch	BTO:0000237	cerebrospinal fluid	semapv:LexicalMatching	0.7
+UBERON:0001363	great saphenous vein	skos:exactMatch	BTO:0003271	great saphenous vein	semapv:LexicalMatching	0.7
+UBERON:0001434	skeletal system	skos:exactMatch	BTO:0001486	skeletal system	semapv:LexicalMatching	0.7
+UBERON:0001437	epiphysis	skos:exactMatch	BTO:0000413	epiphysis	semapv:LexicalMatching	0.7
+UBERON:0001446	fibula	skos:exactMatch	BTO:0002346	fibula	semapv:LexicalMatching	0.7
+UBERON:0001447	tarsal bone	skos:exactMatch	BTO:0002343	tarsal bone	semapv:LexicalMatching	0.7
+UBERON:0001448	metatarsal bone	skos:exactMatch	BTO:0002347	metatarsal bone	semapv:LexicalMatching	0.7
+UBERON:0001456	face	skos:exactMatch	BTO:0003369	face	semapv:LexicalMatching	0.7
+UBERON:0001465	knee	skos:exactMatch	BTO:0003595	knee	semapv:LexicalMatching	0.7
+UBERON:0001488	ankle joint	skos:exactMatch	BTO:0004706	ankle joint	semapv:LexicalMatching	0.7
+UBERON:0001495	pectoral muscle	skos:exactMatch	BTO:0000023	pectoral muscle	semapv:LexicalMatching	0.7
+UBERON:0001516	abdominal aorta	skos:exactMatch	BTO:0002976	abdominal aorta	semapv:LexicalMatching	0.7
+UBERON:0001532	internal carotid artery	skos:exactMatch	BTO:0004697	internal carotid artery	semapv:LexicalMatching	0.7
+UBERON:0001547	small saphenous vein	skos:exactMatch	BTO:0003272	small saphenous vein	semapv:LexicalMatching	0.7
+UBERON:0001567	cheek	skos:exactMatch	BTO:0001754	cheek	semapv:LexicalMatching	0.7
+UBERON:0001579	olfactory nerve	skos:exactMatch	BTO:0003648	olfactory nerve	semapv:LexicalMatching	0.7
+UBERON:0001605	ciliary muscle	skos:exactMatch	BTO:0000654	ciliary muscle	semapv:LexicalMatching	0.7
+UBERON:0001621	coronary artery	skos:exactMatch	BTO:0000290	coronary artery	semapv:LexicalMatching	0.7
+UBERON:0001637	artery	skos:exactMatch	BTO:0000573	artery	semapv:LexicalMatching	0.7
+UBERON:0001638	vein	skos:exactMatch	BTO:0000234	vein	semapv:LexicalMatching	0.7
+UBERON:0001645	trigeminal nerve	skos:exactMatch	BTO:0001072	trigeminal nerve	semapv:LexicalMatching	0.7
+UBERON:0001648	vestibulocochlear nerve	skos:exactMatch	BTO:0003490	vestibulocochlear nerve	semapv:LexicalMatching	0.7
+UBERON:0001649	glossopharyngeal nerve	skos:exactMatch	BTO:0004979	glossopharyngeal nerve	semapv:LexicalMatching	0.7
+UBERON:0001650	hypoglossal nerve	skos:exactMatch	BTO:0003386	hypoglossal nerve	semapv:LexicalMatching	0.7
+UBERON:0001675	trigeminal ganglion	skos:exactMatch	BTO:0001231	trigeminal ganglion	semapv:LexicalMatching	0.7
+UBERON:0001679	ethmoid bone	skos:exactMatch	BTO:0004140	ethmoid bone	semapv:LexicalMatching	0.7
+UBERON:0001707	nasal cavity	skos:exactMatch	BTO:0002096	nasal cavity	semapv:LexicalMatching	0.7
+UBERON:0001711	eyelid	skos:exactMatch	BTO:0002241	eyelid	semapv:LexicalMatching	0.7
+UBERON:0001714	cranial ganglion	skos:exactMatch	BTO:0000106	cranial ganglion	semapv:LexicalMatching	0.7
+UBERON:0001723	tongue	skos:exactMatch	BTO:0001385	tongue	semapv:LexicalMatching	0.7
+UBERON:0001727	taste bud	skos:exactMatch	BTO:0000989	taste bud	semapv:LexicalMatching	0.7
+UBERON:0001728	nasopharynx	skos:exactMatch	BTO:0000662	nasopharynx	semapv:LexicalMatching	0.7
+UBERON:0001736	submandibular gland	skos:exactMatch	BTO:0001316	submandibular gland	semapv:LexicalMatching	0.7
+UBERON:0001737	larynx	skos:exactMatch	BTO:0001208	larynx	semapv:LexicalMatching	0.7
+UBERON:0001739	laryngeal cartilage	skos:exactMatch	BTO:0003660	laryngeal cartilage	semapv:LexicalMatching	0.7
+UBERON:0001744	lymphoid tissue	skos:exactMatch	BTO:0000753	lymphoid tissue	semapv:LexicalMatching	0.7
+UBERON:0001747	parenchyma of thyroid gland	skos:exactMatch	BTO:0004579	parenchyma of thyroid gland	semapv:LexicalMatching	0.7
+UBERON:0001753	cementum	skos:exactMatch	BTO:0002525	cementum	semapv:LexicalMatching	0.7
+UBERON:0001754	dental pulp	skos:exactMatch	BTO:0000339	dental pulp	semapv:LexicalMatching	0.7
+UBERON:0001756	middle ear	skos:exactMatch	BTO:0002099	middle ear	semapv:LexicalMatching	0.7
+UBERON:0001758	periodontium	skos:exactMatch	BTO:0001021	periodontium	semapv:LexicalMatching	0.7
+UBERON:0001759	vagus nerve	skos:exactMatch	BTO:0003472	vagus nerve	semapv:LexicalMatching	0.7
+UBERON:0001765	mammary duct	skos:exactMatch	BTO:0002845	mammary duct	semapv:LexicalMatching	0.7
+UBERON:0001769	iris	skos:exactMatch	BTO:0000653	iris	semapv:LexicalMatching	0.7
+UBERON:0001772	corneal epithelium	skos:exactMatch	BTO:0000287	corneal epithelium	semapv:LexicalMatching	0.7
+UBERON:0001773	sclera	skos:exactMatch	BTO:0001606	sclera	semapv:LexicalMatching	0.7
+UBERON:0001775	ciliary body	skos:exactMatch	BTO:0000260	ciliary body	semapv:LexicalMatching	0.7
+UBERON:0001778	ciliary epithelium	skos:exactMatch	BTO:0001770	ciliary epithelium	semapv:LexicalMatching	0.7
+UBERON:0001780	spinal nerve	skos:exactMatch	BTO:0000870	spinal nerve	semapv:LexicalMatching	0.7
+UBERON:0001785	cranial nerve	skos:exactMatch	BTO:0001104	cranial nerve	semapv:LexicalMatching	0.7
+UBERON:0001797	vitreous humor	skos:exactMatch	BTO:0001451	vitreous humor	semapv:LexicalMatching	0.7
+UBERON:0001800	sensory ganglion	skos:exactMatch	BTO:0005630	sensory ganglion	semapv:LexicalMatching	0.7
+UBERON:0001806	sympathetic ganglion	skos:exactMatch	BTO:0001333	sympathetic ganglion	semapv:LexicalMatching	0.7
+UBERON:0001808	parasympathetic ganglion	skos:exactMatch	BTO:0001256	parasympathetic ganglion	semapv:LexicalMatching	0.7
+UBERON:0001810	nerve plexus	skos:exactMatch	BTO:0000205	nerve plexus	semapv:LexicalMatching	0.7
+UBERON:0001811	conjunctiva	skos:exactMatch	BTO:0003415	conjunctiva	semapv:LexicalMatching	0.7
+UBERON:0001820	sweat gland	skos:exactMatch	BTO:0001331	sweat gland	semapv:LexicalMatching	0.7
+UBERON:0001821	sebaceous gland	skos:exactMatch	BTO:0001980	sebaceous gland	semapv:LexicalMatching	0.7
+UBERON:0001828	gingiva	skos:exactMatch	BTO:0000519	gingiva	semapv:LexicalMatching	0.7
+UBERON:0001831	parotid gland	skos:exactMatch	BTO:0001004	parotid gland	semapv:LexicalMatching	0.7
+UBERON:0001832	sublingual gland	skos:exactMatch	BTO:0001315	sublingual gland	semapv:LexicalMatching	0.7
+UBERON:0001836	saliva	skos:exactMatch	BTO:0001202	saliva	semapv:LexicalMatching	0.7
+UBERON:0001839	bony labyrinth	skos:exactMatch	BTO:0004685	bony labyrinth	semapv:LexicalMatching	0.7
+UBERON:0001840	semicircular canal	skos:exactMatch	BTO:0003383	semicircular canal	semapv:LexicalMatching	0.7
+UBERON:0001844	cochlea	skos:exactMatch	BTO:0000267	cochlea	semapv:LexicalMatching	0.7
+UBERON:0001862	vestibular labyrinth	skos:exactMatch	BTO:0001856	vestibular labyrinth	semapv:LexicalMatching	0.7
+UBERON:0001866	sebum	skos:exactMatch	BTO:0001981	sebum	semapv:LexicalMatching	0.7
+UBERON:0001869	cerebral hemisphere	skos:exactMatch	BTO:0000231	cerebral hemisphere	semapv:LexicalMatching	0.7
+UBERON:0001871	temporal lobe	skos:exactMatch	BTO:0001355	temporal lobe	semapv:LexicalMatching	0.7
+UBERON:0001872	parietal lobe	skos:exactMatch	BTO:0001001	parietal lobe	semapv:LexicalMatching	0.7
+UBERON:0001873	caudate nucleus	skos:exactMatch	BTO:0000211	caudate nucleus	semapv:LexicalMatching	0.7
+UBERON:0001875	globus pallidus	skos:exactMatch	BTO:0002246	globus pallidus	semapv:LexicalMatching	0.7
+UBERON:0001876	amygdala	skos:exactMatch	BTO:0001042	amygdala	semapv:LexicalMatching	0.7
+UBERON:0001882	nucleus accumbens	skos:exactMatch	BTO:0001862	nucleus accumbens	semapv:LexicalMatching	0.7
+UBERON:0001883	olfactory tubercle	skos:exactMatch	BTO:0001869	olfactory tubercle	semapv:LexicalMatching	0.7
+UBERON:0001884	phrenic nerve	skos:exactMatch	BTO:0001063	phrenic nerve	semapv:LexicalMatching	0.7
+UBERON:0001886	choroid plexus	skos:exactMatch	BTO:0000258	choroid plexus	semapv:LexicalMatching	0.7
+UBERON:0001890	forebrain	skos:exactMatch	BTO:0000478	forebrain	semapv:LexicalMatching	0.7
+UBERON:0001891	midbrain	skos:exactMatch	BTO:0000138	midbrain	semapv:LexicalMatching	0.7
+UBERON:0001893	telencephalon	skos:exactMatch	BTO:0000239	telencephalon	semapv:LexicalMatching	0.7
+UBERON:0001894	diencephalon	skos:exactMatch	BTO:0000342	diencephalon	semapv:LexicalMatching	0.7
+UBERON:0001895	metencephalon	skos:exactMatch	BTO:0000673	metencephalon	semapv:LexicalMatching	0.7
+UBERON:0001896	medulla oblongata	skos:exactMatch	BTO:0000041	medulla oblongata	semapv:LexicalMatching	0.7
+UBERON:0001898	hypothalamus	skos:exactMatch	BTO:0000614	hypothalamus	semapv:LexicalMatching	0.7
+UBERON:0001899	epithalamus	skos:exactMatch	BTO:0000175	epithalamus	semapv:LexicalMatching	0.7
+UBERON:0001906	subthalamic nucleus	skos:exactMatch	BTO:0002252	subthalamic nucleus	semapv:LexicalMatching	0.7
+UBERON:0001907	zona incerta	skos:exactMatch	BTO:0003146	zona incerta	semapv:LexicalMatching	0.7
+UBERON:0001911	mammary gland	skos:exactMatch	BTO:0000817	mammary gland	semapv:LexicalMatching	0.7
+UBERON:0001913	milk	skos:exactMatch	BTO:0000868	milk	semapv:LexicalMatching	0.7
+UBERON:0001926	lateral geniculate body	skos:exactMatch	BTO:0004367	lateral geniculate body	semapv:LexicalMatching	0.7
+UBERON:0001928	preoptic area	skos:exactMatch	BTO:0001796	preoptic area	semapv:LexicalMatching	0.7
+UBERON:0001930	paraventricular nucleus of hypothalamus	skos:exactMatch	BTO:0002476	paraventricular nucleus of hypothalamus	semapv:LexicalMatching	0.7
+UBERON:0001949	gingival epithelium	skos:exactMatch	BTO:0004998	gingival epithelium	semapv:LexicalMatching	0.7
+UBERON:0001950	neocortex	skos:exactMatch	BTO:0000920	neocortex	semapv:LexicalMatching	0.7
+UBERON:0001968	semen	skos:exactMatch	BTO:0001230	semen	semapv:LexicalMatching	0.7
+UBERON:0001969	blood plasma	skos:exactMatch	BTO:0000131	blood plasma	semapv:LexicalMatching	0.7
+UBERON:0001970	bile	skos:exactMatch	BTO:0000121	bile	semapv:LexicalMatching	0.7
+UBERON:0001971	gastric juice	skos:exactMatch	BTO:0000501	gastric juice	semapv:LexicalMatching	0.7
+UBERON:0001979	venule	skos:exactMatch	BTO:0002626	venule	semapv:LexicalMatching	0.7
+UBERON:0001980	arteriole	skos:exactMatch	BTO:0001997	arteriole	semapv:LexicalMatching	0.7
+UBERON:0001981	blood vessel	skos:exactMatch	BTO:0001102	blood vessel	semapv:LexicalMatching	0.7
+UBERON:0001982	capillary	skos:exactMatch	BTO:0002045	capillary	semapv:LexicalMatching	0.7
+UBERON:0001986	endothelium	skos:exactMatch	BTO:0000393	endothelium	semapv:LexicalMatching	0.7
+UBERON:0001987	placenta	skos:exactMatch	BTO:0001078	placenta	semapv:LexicalMatching	0.7
+UBERON:0001988	feces	skos:exactMatch	BTO:0000440	feces	semapv:LexicalMatching	0.7
+UBERON:0001989	superior cervical ganglion	skos:exactMatch	BTO:0001325	superior cervical ganglion	semapv:LexicalMatching	0.7
+UBERON:0001990	middle cervical ganglion	skos:exactMatch	BTO:0000359	middle cervical ganglion	semapv:LexicalMatching	0.7
+UBERON:0001991	cervical ganglion	skos:exactMatch	BTO:0000113	cervical ganglion	semapv:LexicalMatching	0.7
+UBERON:0001997	olfactory epithelium	skos:exactMatch	BTO:0000108	olfactory epithelium	semapv:LexicalMatching	0.7
+UBERON:0002005	enteric nervous system	skos:exactMatch	BTO:0002506	enteric nervous system	semapv:LexicalMatching	0.7
+UBERON:0002012	pulmonary artery	skos:exactMatch	BTO:0000778	pulmonary artery	semapv:LexicalMatching	0.7
+UBERON:0002016	pulmonary vein	skos:exactMatch	BTO:0001799	pulmonary vein	semapv:LexicalMatching	0.7
+UBERON:0002017	portal vein	skos:exactMatch	BTO:0001792	portal vein	semapv:LexicalMatching	0.7
+UBERON:0002028	hindbrain	skos:exactMatch	BTO:0000672	hindbrain	semapv:LexicalMatching	0.7
+UBERON:0002030	nipple	skos:exactMatch	BTO:0000821	nipple	semapv:LexicalMatching	0.7
+UBERON:0002034	suprachiasmatic nucleus	skos:exactMatch	BTO:0001822	suprachiasmatic nucleus	semapv:LexicalMatching	0.7
+UBERON:0002037	cerebellum	skos:exactMatch	BTO:0000232	cerebellum	semapv:LexicalMatching	0.7
+UBERON:0002038	substantia nigra	skos:exactMatch	BTO:0000143	substantia nigra	semapv:LexicalMatching	0.7
+UBERON:0002046	thyroid gland	skos:exactMatch	BTO:0001379	thyroid gland	semapv:LexicalMatching	0.7
+UBERON:0002048	lung	skos:exactMatch	BTO:0000763	lung	semapv:LexicalMatching	0.7
+UBERON:0002049	vasculature	skos:exactMatch	BTO:0003718	vasculature	semapv:LexicalMatching	0.7
+UBERON:0002050	embryonic structure	skos:exactMatch	BTO:0000174	embryonic structure	semapv:LexicalMatching	0.7
+UBERON:0002059	submandibular ganglion	skos:exactMatch	BTO:0001318	submandibular ganglion	semapv:LexicalMatching	0.7
+UBERON:0002060	femoral artery	skos:exactMatch	BTO:0001624	femoral artery	semapv:LexicalMatching	0.7
+UBERON:0002066	umbilical vein	skos:exactMatch	BTO:0001509	umbilical vein	semapv:LexicalMatching	0.7
+UBERON:0002067	dermis	skos:exactMatch	BTO:0000294	dermis	semapv:LexicalMatching	0.7
+UBERON:0002072	hypodermis	skos:exactMatch	BTO:0000313	hypodermis	semapv:LexicalMatching	0.7
+UBERON:0002073	hair follicle	skos:exactMatch	BTO:0000554	hair follicle	semapv:LexicalMatching	0.7
+UBERON:0002074	hair shaft	skos:exactMatch	BTO:0004672	hair shaft	semapv:LexicalMatching	0.7
+UBERON:0002075	viscus	skos:exactMatch	BTO:0001491	viscus	semapv:LexicalMatching	0.7
+UBERON:0002094	interventricular septum	skos:exactMatch	BTO:0002483	interventricular septum	semapv:LexicalMatching	0.7
+UBERON:0002095	mesentery	skos:exactMatch	BTO:0001380	mesentery	semapv:LexicalMatching	0.7
+UBERON:0002100	trunk	skos:exactMatch	BTO:0001493	trunk	semapv:LexicalMatching	0.7
+UBERON:0002101	limb	skos:exactMatch	BTO:0001492	limb	semapv:LexicalMatching	0.7
+UBERON:0002102	forelimb	skos:exactMatch	BTO:0001729	forelimb	semapv:LexicalMatching	0.7
+UBERON:0002103	hindlimb	skos:exactMatch	BTO:0002345	hindlimb	semapv:LexicalMatching	0.7
+UBERON:0002106	spleen	skos:exactMatch	BTO:0001281	spleen	semapv:LexicalMatching	0.7
+UBERON:0002107	liver	skos:exactMatch	BTO:0000759	liver	semapv:LexicalMatching	0.7
+UBERON:0002108	small intestine	skos:exactMatch	BTO:0000651	small intestine	semapv:LexicalMatching	0.7
+UBERON:0002113	kidney	skos:exactMatch	BTO:0000671	kidney	semapv:LexicalMatching	0.7
+UBERON:0002114	duodenum	skos:exactMatch	BTO:0000365	duodenum	semapv:LexicalMatching	0.7
+UBERON:0002115	jejunum	skos:exactMatch	BTO:0000657	jejunum	semapv:LexicalMatching	0.7
+UBERON:0002116	ileum	skos:exactMatch	BTO:0000620	ileum	semapv:LexicalMatching	0.7
+UBERON:0002120	pronephros	skos:exactMatch	BTO:0001541	pronephros	semapv:LexicalMatching	0.7
+UBERON:0002129	cerebellar cortex	skos:exactMatch	BTO:0000043	cerebellar cortex	semapv:LexicalMatching	0.7
+UBERON:0002139	subcommissural organ	skos:exactMatch	BTO:0001820	subcommissural organ	semapv:LexicalMatching	0.7
+UBERON:0002148	locus ceruleus	skos:exactMatch	BTO:0001408	locus ceruleus	semapv:LexicalMatching	0.7
+UBERON:0002162	area postrema	skos:exactMatch	BTO:0003425	area postrema	semapv:LexicalMatching	0.7
+UBERON:0002165	endocardium	skos:exactMatch	BTO:0000387	endocardium	semapv:LexicalMatching	0.7
+UBERON:0002169	alveolar sac	skos:exactMatch	BTO:0000061	alveolar sac	semapv:LexicalMatching	0.7
+UBERON:0002185	bronchus	skos:exactMatch	BTO:0001340	bronchus	semapv:LexicalMatching	0.7
+UBERON:0002186	bronchiole	skos:exactMatch	BTO:0002375	bronchiole	semapv:LexicalMatching	0.7
+UBERON:0002187	terminal bronchiole	skos:exactMatch	BTO:0003223	terminal bronchiole	semapv:LexicalMatching	0.7
+UBERON:0002188	respiratory bronchiole	skos:exactMatch	BTO:0003222	respiratory bronchiole	semapv:LexicalMatching	0.7
+UBERON:0002190	subcutaneous adipose tissue	skos:exactMatch	BTO:0004042	subcutaneous adipose tissue	semapv:LexicalMatching	0.7
+UBERON:0002191	subiculum	skos:exactMatch	BTO:0003087	subiculum	semapv:LexicalMatching	0.7
+UBERON:0002196	adenohypophysis	skos:exactMatch	BTO:0000040	adenohypophysis	semapv:LexicalMatching	0.7
+UBERON:0002198	neurohypophysis	skos:exactMatch	BTO:0000937	neurohypophysis	semapv:LexicalMatching	0.7
+UBERON:0002199	integument	skos:exactMatch	BTO:0000634	integument	semapv:LexicalMatching	0.7
+UBERON:0002219	subfornical organ	skos:exactMatch	BTO:0006266	subfornical organ	semapv:LexicalMatching	0.7
+UBERON:0002222	perichondrium	skos:exactMatch	BTO:0005089	perichondrium	semapv:LexicalMatching	0.7
+UBERON:0002240	spinal cord	skos:exactMatch	BTO:0001279	spinal cord	semapv:LexicalMatching	0.7
+UBERON:0002242	nucleus pulposus	skos:exactMatch	BTO:0003626	nucleus pulposus	semapv:LexicalMatching	0.7
+UBERON:0002255	vomeronasal organ	skos:exactMatch	BTO:0002608	vomeronasal organ	semapv:LexicalMatching	0.7
+UBERON:0002262	celiac ganglion	skos:exactMatch	BTO:0006296	celiac ganglion	semapv:LexicalMatching	0.7
+UBERON:0002264	olfactory bulb	skos:exactMatch	BTO:0000961	olfactory bulb	semapv:LexicalMatching	0.7
+UBERON:0002265	olfactory tract	skos:exactMatch	BTO:0003647	olfactory tract	semapv:LexicalMatching	0.7
+UBERON:0002266	anterior olfactory nucleus	skos:exactMatch	BTO:0003649	anterior olfactory nucleus	semapv:LexicalMatching	0.7
+UBERON:0002268	olfactory organ	skos:exactMatch	BTO:0001772	olfactory organ	semapv:LexicalMatching	0.7
+UBERON:0002278	perilymphatic space	skos:exactMatch	BTO:0002083	perilymphatic space	semapv:LexicalMatching	0.7
+UBERON:0002303	juxtaglomerular apparatus	skos:exactMatch	BTO:0005157	juxtaglomerular apparatus	semapv:LexicalMatching	0.7
+UBERON:0002319	mesangium	skos:exactMatch	BTO:0002494	mesangium	semapv:LexicalMatching	0.7
+UBERON:0002328	notochord	skos:exactMatch	BTO:0001768	notochord	semapv:LexicalMatching	0.7
+UBERON:0002329	somite	skos:exactMatch	BTO:0001558	somite	semapv:LexicalMatching	0.7
+UBERON:0002331	umbilical cord	skos:exactMatch	BTO:0001415	umbilical cord	semapv:LexicalMatching	0.7
+UBERON:0002335	macula densa	skos:exactMatch	BTO:0003940	macula densa	semapv:LexicalMatching	0.7
+UBERON:0002336	corpus callosum	skos:exactMatch	BTO:0000615	corpus callosum	semapv:LexicalMatching	0.7
+UBERON:0002342	neural crest	skos:exactMatch	BTO:0001764	neural crest	semapv:LexicalMatching	0.7
+UBERON:0002349	myocardium	skos:exactMatch	BTO:0000901	myocardium	semapv:LexicalMatching	0.7
+UBERON:0002352	atrioventricular node	skos:exactMatch	BTO:0005689	atrioventricular node	semapv:LexicalMatching	0.7
+UBERON:0002354	cardiac Purkinje fiber	skos:exactMatch	BTO:0001735	cardiac Purkinje fiber	semapv:LexicalMatching	0.7
+UBERON:0002358	peritoneum	skos:exactMatch	BTO:0001472	peritoneum	semapv:LexicalMatching	0.7
+UBERON:0002360	meninx	skos:exactMatch	BTO:0000144	meninx	semapv:LexicalMatching	0.7
+UBERON:0002361	pia mater	skos:exactMatch	BTO:0001635	pia mater	semapv:LexicalMatching	0.7
+UBERON:0002362	arachnoid mater	skos:exactMatch	BTO:0001636	arachnoid mater	semapv:LexicalMatching	0.7
+UBERON:0002363	dura mater	skos:exactMatch	BTO:0001637	dura mater	semapv:LexicalMatching	0.7
+UBERON:0002365	exocrine gland	skos:exactMatch	BTO:0000765	exocrine gland	semapv:LexicalMatching	0.7
+UBERON:0002367	prostate gland	skos:exactMatch	BTO:0001129	prostate gland	semapv:LexicalMatching	0.7
+UBERON:0002368	endocrine gland	skos:exactMatch	BTO:0001488	endocrine gland	semapv:LexicalMatching	0.7
+UBERON:0002369	adrenal gland	skos:exactMatch	BTO:0000047	adrenal gland	semapv:LexicalMatching	0.7
+UBERON:0002370	thymus	skos:exactMatch	BTO:0001374	thymus	semapv:LexicalMatching	0.7
+UBERON:0002371	bone marrow	skos:exactMatch	BTO:0000141	bone marrow	semapv:LexicalMatching	0.7
+UBERON:0002372	tonsil	skos:exactMatch	BTO:0001387	tonsil	semapv:LexicalMatching	0.7
+UBERON:0002384	connective tissue	skos:exactMatch	BTO:0000421	connective tissue	semapv:LexicalMatching	0.7
+UBERON:0002390	hematopoietic system	skos:exactMatch	BTO:0000570	hematopoietic system	semapv:LexicalMatching	0.7
+UBERON:0002391	lymph	skos:exactMatch	BTO:0000855	lymph	semapv:LexicalMatching	0.7
+UBERON:0002394	bile duct	skos:exactMatch	BTO:0000122	bile duct	semapv:LexicalMatching	0.7
+UBERON:0002402	pleural cavity	skos:exactMatch	BTO:0004422	pleural cavity	semapv:LexicalMatching	0.7
+UBERON:0002405	immune system	skos:exactMatch	BTO:0005810	immune system	semapv:LexicalMatching	0.7
+UBERON:0002407	pericardium	skos:exactMatch	BTO:0000717	pericardium	semapv:LexicalMatching	0.7
+UBERON:0002409	pericardial fluid	skos:exactMatch	BTO:0001016	pericardial fluid	semapv:LexicalMatching	0.7
+UBERON:0002410	autonomic nervous system	skos:exactMatch	BTO:0002507	autonomic nervous system	semapv:LexicalMatching	0.7
+UBERON:0002411	clitoris	skos:exactMatch	BTO:0002020	clitoris	semapv:LexicalMatching	0.7
+UBERON:0002412	vertebra	skos:exactMatch	BTO:0006196	vertebra	semapv:LexicalMatching	0.7
+UBERON:0002415	tail	skos:exactMatch	BTO:0001348	tail	semapv:LexicalMatching	0.7
+UBERON:0002420	basal ganglion	skos:exactMatch	BTO:0000235	basal ganglion	semapv:LexicalMatching	0.7
+UBERON:0002422	fourth ventricle	skos:exactMatch	BTO:0003426	fourth ventricle	semapv:LexicalMatching	0.7
+UBERON:0002424	oral epithelium	skos:exactMatch	BTO:0001775	oral epithelium	semapv:LexicalMatching	0.7
+UBERON:0002444	lens fiber	skos:exactMatch	BTO:0000724	lens fiber	semapv:LexicalMatching	0.7
+UBERON:0002450	decidua	skos:exactMatch	BTO:0001360	decidua	semapv:LexicalMatching	0.7
+UBERON:0002451	endometrial gland	skos:exactMatch	BTO:0003433	endometrial gland	semapv:LexicalMatching	0.7
+UBERON:0002464	nerve trunk	skos:exactMatch	BTO:0000927	nerve trunk	semapv:LexicalMatching	0.7
+UBERON:0002495	long bone	skos:exactMatch	BTO:0004256	long bone	semapv:LexicalMatching	0.7
+UBERON:0002499	cochlear labyrinth	skos:exactMatch	BTO:0004686	cochlear labyrinth	semapv:LexicalMatching	0.7
+UBERON:0002509	mesenteric lymph node	skos:exactMatch	BTO:0000767	mesenteric lymph node	semapv:LexicalMatching	0.7
+UBERON:0002512	corpus luteum	skos:exactMatch	BTO:0000292	corpus luteum	semapv:LexicalMatching	0.7
+UBERON:0002513	endochondral bone	skos:exactMatch	BTO:0002157	endochondral bone	semapv:LexicalMatching	0.7
+UBERON:0002515	periosteum	skos:exactMatch	BTO:0001022	periosteum	semapv:LexicalMatching	0.7
+UBERON:0002530	gland	skos:exactMatch	BTO:0000522	gland	semapv:LexicalMatching	0.7
+UBERON:0002548	larva	skos:exactMatch	BTO:0000707	larva	semapv:LexicalMatching	0.7
+UBERON:0002707	corticospinal tract	skos:exactMatch	BTO:0006132	corticospinal tract	semapv:LexicalMatching	0.7
+UBERON:0002708	posterior periventricular nucleus	skos:exactMatch	BTO:0002479	posterior periventricular nucleus	semapv:LexicalMatching	0.7
+UBERON:0002709	posterior nuclear complex of thalamus	skos:exactMatch	BTO:0002462	posterior nuclear complex of thalamus	semapv:LexicalMatching	0.7
+UBERON:0002714	rubrospinal tract	skos:exactMatch	BTO:0006159	rubrospinal tract	semapv:LexicalMatching	0.7
+UBERON:0002743	basal forebrain	skos:exactMatch	BTO:0002444	basal forebrain	semapv:LexicalMatching	0.7
+UBERON:0002886	lateral amygdaloid nucleus	skos:exactMatch	BTO:0002704	lateral amygdaloid nucleus	semapv:LexicalMatching	0.7
+UBERON:0002892	medial amygdaloid nucleus	skos:exactMatch	BTO:0002702	medial amygdaloid nucleus	semapv:LexicalMatching	0.7
+UBERON:0002894	olfactory cortex	skos:exactMatch	BTO:0001446	olfactory cortex	semapv:LexicalMatching	0.7
+UBERON:0002925	trigeminal nucleus	skos:exactMatch	BTO:0001074	trigeminal nucleus	semapv:LexicalMatching	0.7
+UBERON:0003050	olfactory placode	skos:exactMatch	BTO:0006222	olfactory placode	semapv:LexicalMatching	0.7
+UBERON:0003053	ventricular zone	skos:exactMatch	BTO:0003654	ventricular zone	semapv:LexicalMatching	0.7
+UBERON:0003055	periderm	skos:exactMatch	BTO:0003377	periderm	semapv:LexicalMatching	0.7
+UBERON:0003060	pronephric duct	skos:exactMatch	BTO:0005991	pronephric duct	semapv:LexicalMatching	0.7
+UBERON:0003072	optic cup	skos:exactMatch	BTO:0005351	optic cup	semapv:LexicalMatching	0.7
+UBERON:0003074	mesonephric duct	skos:exactMatch	BTO:0005990	mesonephric duct	semapv:LexicalMatching	0.7
+UBERON:0003075	neural plate	skos:exactMatch	BTO:0001765	neural plate	semapv:LexicalMatching	0.7
+UBERON:0003079	floor plate	skos:exactMatch	BTO:0001720	floor plate	semapv:LexicalMatching	0.7
+UBERON:0003082	myotome	skos:exactMatch	BTO:0000742	myotome	semapv:LexicalMatching	0.7
+UBERON:0003084	heart primordium	skos:exactMatch	BTO:0001887	heart primordium	semapv:LexicalMatching	0.7
+UBERON:0003089	sclerotome	skos:exactMatch	BTO:0006255	sclerotome	semapv:LexicalMatching	0.7
+UBERON:0003091	thyroid primordium	skos:exactMatch	BTO:0004709	thyroid primordium	semapv:LexicalMatching	0.7
+UBERON:0003104	mesenchyme	skos:exactMatch	BTO:0001393	mesenchyme	semapv:LexicalMatching	0.7
+UBERON:0003126	trachea	skos:exactMatch	BTO:0001388	trachea	semapv:LexicalMatching	0.7
+UBERON:0003128	cranium	skos:exactMatch	BTO:0001295	cranium	semapv:LexicalMatching	0.7
+UBERON:0003215	alveolus	skos:exactMatch	BTO:0000060	alveolus	semapv:LexicalMatching	0.7
+UBERON:0003295	pharyngeal gland	skos:exactMatch	BTO:0004849	pharyngeal gland	semapv:LexicalMatching	0.7
+UBERON:0003351	pharyngeal epithelium	skos:exactMatch	BTO:0005240	pharyngeal epithelium	semapv:LexicalMatching	0.7
+UBERON:0003662	forelimb muscle	skos:exactMatch	BTO:0000479	forelimb muscle	semapv:LexicalMatching	0.7
+UBERON:0003687	foramen magnum	skos:exactMatch	BTO:0006035	foramen magnum	semapv:LexicalMatching	0.7
+UBERON:0003861	neural arch	skos:exactMatch	BTO:0001763	neural arch	semapv:LexicalMatching	0.7
+UBERON:0003911	choroid plexus epithelium	skos:exactMatch	BTO:0006008	choroid plexus epithelium	semapv:LexicalMatching	0.7
+UBERON:0003937	reproductive gland	skos:exactMatch	BTO:0006162	reproductive gland	semapv:LexicalMatching	0.7
+UBERON:0004016	dermatome	skos:exactMatch	BTO:0006248	dermatome	semapv:LexicalMatching	0.7
+UBERON:0004027	chorionic plate	skos:exactMatch	BTO:0002879	chorionic plate	semapv:LexicalMatching	0.7
+UBERON:0004044	anterior visceral endoderm	skos:exactMatch	BTO:0003361	anterior visceral endoderm	semapv:LexicalMatching	0.7
+UBERON:0004086	brain ventricle	skos:exactMatch	BTO:0001442	brain ventricle	semapv:LexicalMatching	0.7
+UBERON:0004087	vena cava	skos:exactMatch	BTO:0001438	vena cava	semapv:LexicalMatching	0.7
+UBERON:0004188	glomerular epithelium	skos:exactMatch	BTO:0001515	glomerular epithelium	semapv:LexicalMatching	0.7
+UBERON:0004189	glomerular endothelium	skos:exactMatch	BTO:0004631	glomerular endothelium	semapv:LexicalMatching	0.7
+UBERON:0004203	cortical collecting duct	skos:exactMatch	BTO:0002643	cortical collecting duct	semapv:LexicalMatching	0.7
+UBERON:0004205	inner medullary collecting duct	skos:exactMatch	BTO:0004544	inner medullary collecting duct	semapv:LexicalMatching	0.7
+UBERON:0004222	stomach smooth muscle	skos:exactMatch	BTO:0001818	stomach smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0004228	urinary bladder smooth muscle	skos:exactMatch	BTO:0001849	urinary bladder smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0004234	iris smooth muscle	skos:exactMatch	BTO:0000655	iris smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0004243	prostate gland smooth muscle	skos:exactMatch	BTO:0003159	prostate gland smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0004340	allantois	skos:exactMatch	BTO:0000474	allantois	semapv:LexicalMatching	0.7
+UBERON:0004345	trophectoderm	skos:exactMatch	BTO:0001840	trophectoderm	semapv:LexicalMatching	0.7
+UBERON:0004347	limb bud	skos:exactMatch	BTO:0001640	limb bud	semapv:LexicalMatching	0.7
+UBERON:0004364	ectoplacental cone	skos:exactMatch	BTO:0001715	ectoplacental cone	semapv:LexicalMatching	0.7
+UBERON:0004449	cerebral artery	skos:exactMatch	BTO:0005205	cerebral artery	semapv:LexicalMatching	0.7
+UBERON:0004535	cardiovascular system	skos:exactMatch	BTO:0000088	cardiovascular system	semapv:LexicalMatching	0.7
+UBERON:0004572	arterial system	skos:exactMatch	BTO:0004690	arterial system	semapv:LexicalMatching	0.7
+UBERON:0004582	venous system	skos:exactMatch	BTO:0004692	venous system	semapv:LexicalMatching	0.7
+UBERON:0004638	blood vessel endothelium	skos:exactMatch	BTO:0000766	blood vessel endothelium	semapv:LexicalMatching	0.7
+UBERON:0004681	vestibular system	skos:exactMatch	BTO:0003381	vestibular system	semapv:LexicalMatching	0.7
+UBERON:0004711	jugular vein	skos:exactMatch	BTO:0001744	jugular vein	semapv:LexicalMatching	0.7
+UBERON:0004715	annulus fibrosus disci intervertebralis	skos:exactMatch	BTO:0003629	annulus fibrosus disci intervertebralis	semapv:LexicalMatching	0.7
+UBERON:0004716	conceptus	skos:exactMatch	BTO:0003834	conceptus	semapv:LexicalMatching	0.7
+UBERON:0004734	gastrula	skos:exactMatch	BTO:0001403	gastrula	semapv:LexicalMatching	0.7
+UBERON:0004758	salt gland	skos:exactMatch	BTO:0001204	salt gland	semapv:LexicalMatching	0.7
+UBERON:0004804	oviduct epithelium	skos:exactMatch	BTO:0002402	oviduct epithelium	semapv:LexicalMatching	0.7
+UBERON:0004809	salivary gland epithelium	skos:exactMatch	BTO:0004421	salivary gland epithelium	semapv:LexicalMatching	0.7
+UBERON:0004820	bile duct epithelium	skos:exactMatch	BTO:0000417	bile duct epithelium	semapv:LexicalMatching	0.7
+UBERON:0004851	aorta endothelium	skos:exactMatch	BTO:0000394	aorta endothelium	semapv:LexicalMatching	0.7
+UBERON:0004877	visceral endoderm	skos:exactMatch	BTO:0003487	visceral endoderm	semapv:LexicalMatching	0.7
+UBERON:0004893	interalveolar septum	skos:exactMatch	BTO:0003149	interalveolar septum	semapv:LexicalMatching	0.7
+UBERON:0004894	alveolar wall	skos:exactMatch	BTO:0002543	alveolar wall	semapv:LexicalMatching	0.7
+UBERON:0005167	papillary duct	skos:exactMatch	BTO:0004540	papillary duct	semapv:LexicalMatching	0.7
+UBERON:0005184	hair medulla	skos:exactMatch	BTO:0004671	hair medulla	semapv:LexicalMatching	0.7
+UBERON:0005290	myelencephalon	skos:exactMatch	BTO:0000758	myelencephalon	semapv:LexicalMatching	0.7
+UBERON:0005292	extraembryonic tissue	skos:exactMatch	BTO:0003360	extraembryonic tissue	semapv:LexicalMatching	0.7
+UBERON:0005305	thyroid follicle	skos:exactMatch	BTO:0004708	thyroid follicle	semapv:LexicalMatching	0.7
+UBERON:0005317	pulmonary artery endothelium	skos:exactMatch	BTO:0000137	pulmonary artery endothelium	semapv:LexicalMatching	0.7
+UBERON:0005366	olfactory lobe	skos:exactMatch	BTO:0001362	olfactory lobe	semapv:LexicalMatching	0.7
+UBERON:0005382	dorsal striatum	skos:exactMatch	BTO:0004701	dorsal striatum	semapv:LexicalMatching	0.7
+UBERON:0005398	female reproductive gland	skos:exactMatch	BTO:0000254	female reproductive gland	semapv:LexicalMatching	0.7
+UBERON:0005399	male reproductive gland	skos:exactMatch	BTO:0000080	male reproductive gland	semapv:LexicalMatching	0.7
+UBERON:0005403	ventral striatum	skos:exactMatch	BTO:0004702	ventral striatum	semapv:LexicalMatching	0.7
+UBERON:0005408	circumventricular organ	skos:exactMatch	BTO:0006267	circumventricular organ	semapv:LexicalMatching	0.7
+UBERON:0005609	iliac artery	skos:exactMatch	BTO:0004665	iliac artery	semapv:LexicalMatching	0.7
+UBERON:0005616	mesenteric artery	skos:exactMatch	BTO:0000779	mesenteric artery	semapv:LexicalMatching	0.7
+UBERON:0005617	mesenteric vein	skos:exactMatch	BTO:0002781	mesenteric vein	semapv:LexicalMatching	0.7
+UBERON:0005805	dorsal aorta	skos:exactMatch	BTO:0004673	dorsal aorta	semapv:LexicalMatching	0.7
+UBERON:0005813	tubercle	skos:exactMatch	BTO:0002173	tubercle	semapv:LexicalMatching	0.7
+UBERON:0006444	annulus fibrosus	skos:exactMatch	BTO:0003627	annulus fibrosus	semapv:LexicalMatching	0.7
+UBERON:0006562	pharynx	skos:exactMatch	BTO:0001049	pharynx	semapv:LexicalMatching	0.7
+UBERON:0006568	hypothalamic nucleus	skos:exactMatch	BTO:0002449	hypothalamic nucleus	semapv:LexicalMatching	0.7
+UBERON:0006660	muscular coat	skos:exactMatch	BTO:0004838	muscular coat	semapv:LexicalMatching	0.7
+UBERON:0006676	muscularis mucosa	skos:exactMatch	BTO:0004839	muscularis mucosa	semapv:LexicalMatching	0.7
+UBERON:0006799	glandular epithelium	skos:exactMatch	BTO:0002991	glandular epithelium	semapv:LexicalMatching	0.7
+UBERON:0006849	scapula	skos:exactMatch	BTO:0001218	scapula	semapv:LexicalMatching	0.7
+UBERON:0006913	lip epithelium	skos:exactMatch	BTO:0004468	lip epithelium	semapv:LexicalMatching	0.7
+UBERON:0006914	squamous epithelium	skos:exactMatch	BTO:0002072	squamous epithelium	semapv:LexicalMatching	0.7
+UBERON:0006953	ejaculatory duct epithelium	skos:exactMatch	BTO:0002618	ejaculatory duct epithelium	semapv:LexicalMatching	0.7
+UBERON:0006955	uterine epithelium	skos:exactMatch	BTO:0003082	uterine epithelium	semapv:LexicalMatching	0.7
+UBERON:0007106	chorionic villus	skos:exactMatch	BTO:0001161	chorionic villus	semapv:LexicalMatching	0.7
+UBERON:0007228	vestibular nucleus	skos:exactMatch	BTO:0004368	vestibular nucleus	semapv:LexicalMatching	0.7
+UBERON:0007318	saphenous vein	skos:exactMatch	BTO:0001808	saphenous vein	semapv:LexicalMatching	0.7
+UBERON:0007329	pancreatic duct	skos:exactMatch	BTO:0002362	pancreatic duct	semapv:LexicalMatching	0.7
+UBERON:0007777	umbilical vein endothelium	skos:exactMatch	BTO:0001416	umbilical vein endothelium	semapv:LexicalMatching	0.7
+UBERON:0007778	umbilical artery endothelium	skos:exactMatch	BTO:0000857	umbilical artery endothelium	semapv:LexicalMatching	0.7
+UBERON:0007798	vascular system	skos:exactMatch	BTO:0001085	vascular system	semapv:LexicalMatching	0.7
+UBERON:0007806	connecting stalk	skos:exactMatch	BTO:0004705	connecting stalk	semapv:LexicalMatching	0.7
+UBERON:0008266	periodontal ligament	skos:exactMatch	BTO:0001020	periodontal ligament	semapv:LexicalMatching	0.7
+UBERON:0008281	tooth bud	skos:exactMatch	BTO:0001838	tooth bud	semapv:LexicalMatching	0.7
+UBERON:0008304	inner chondrogenic layer of perichondrium	skos:exactMatch	BTO:0005090	inner chondrogenic layer of perichondrium	semapv:LexicalMatching	0.7
+UBERON:0008305	outer fibrous layer of perichondrium	skos:exactMatch	BTO:0005091	outer fibrous layer of perichondrium	semapv:LexicalMatching	0.7
+UBERON:0008307	heart endothelium	skos:exactMatch	BTO:0004293	heart endothelium	semapv:LexicalMatching	0.7
+UBERON:0008331	clitoral smooth muscle	skos:exactMatch	BTO:0005000	clitoral smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0008339	microvascular endothelium	skos:exactMatch	BTO:0003122	microvascular endothelium	semapv:LexicalMatching	0.7
+UBERON:0008367	breast epithelium	skos:exactMatch	BTO:0001428	breast epithelium	semapv:LexicalMatching	0.7
+UBERON:0008397	tracheobronchial epithelium	skos:exactMatch	BTO:0002925	tracheobronchial epithelium	semapv:LexicalMatching	0.7
+UBERON:0008408	distal tubular epithelium	skos:exactMatch	BTO:0003948	distal tubular epithelium	semapv:LexicalMatching	0.7
+UBERON:0008836	liver bud	skos:exactMatch	BTO:0001642	liver bud	semapv:LexicalMatching	0.7
+UBERON:0008904	neuromast	skos:exactMatch	BTO:0006219	neuromast	semapv:LexicalMatching	0.7
+UBERON:0008969	dental follicle	skos:exactMatch	BTO:0000337	dental follicle	semapv:LexicalMatching	0.7
+UBERON:0008974	apocrine gland	skos:exactMatch	BTO:0001162	apocrine gland	semapv:LexicalMatching	0.7
+UBERON:0008987	renal parenchyma	skos:exactMatch	BTO:0003604	renal parenchyma	semapv:LexicalMatching	0.7
+UBERON:0009010	periurethral tissue	skos:exactMatch	BTO:0005081	periurethral tissue	semapv:LexicalMatching	0.7
+UBERON:0009127	epibranchial ganglion	skos:exactMatch	BTO:0006250	epibranchial ganglion	semapv:LexicalMatching	0.7
+UBERON:0009758	abdominal ganglion	skos:exactMatch	BTO:0000022	abdominal ganglion	semapv:LexicalMatching	0.7
+UBERON:0009773	renal tubule	skos:exactMatch	BTO:0000343	renal tubule	semapv:LexicalMatching	0.7
+UBERON:0010143	seminal vesicle fluid	skos:exactMatch	BTO:0002053	seminal vesicle fluid	semapv:LexicalMatching	0.7
+UBERON:0010152	skin mucus	skos:exactMatch	BTO:0005082	skin mucus	semapv:LexicalMatching	0.7
+UBERON:0010210	blood clot	skos:exactMatch	BTO:0000102	blood clot	semapv:LexicalMatching	0.7
+UBERON:0010243	merocrine gland	skos:exactMatch	BTO:0002324	merocrine gland	semapv:LexicalMatching	0.7
+UBERON:0010302	amnioserosa	skos:exactMatch	BTO:0004800	amnioserosa	semapv:LexicalMatching	0.7
+UBERON:0010754	germinal center	skos:exactMatch	BTO:0003671	germinal center	semapv:LexicalMatching	0.7
+UBERON:0011004	pharyngeal arch cartilage	skos:exactMatch	BTO:0006051	pharyngeal arch cartilage	semapv:LexicalMatching	0.7
+UBERON:0011148	submucosal gland	skos:exactMatch	BTO:0003751	submucosal gland	semapv:LexicalMatching	0.7
+UBERON:0011374	prepuce	skos:exactMatch	BTO:0001113	prepuce	semapv:LexicalMatching	0.7
+UBERON:0011997	coelom	skos:exactMatch	BTO:0001707	coelom	semapv:LexicalMatching	0.7
+UBERON:0012168	umbilical cord blood	skos:exactMatch	BTO:0004053	umbilical cord blood	semapv:LexicalMatching	0.7
+UBERON:0012248	cervical mucosa	skos:exactMatch	BTO:0000411	cervical mucosa	semapv:LexicalMatching	0.7
+UBERON:0012344	holocrine gland	skos:exactMatch	BTO:0002325	holocrine gland	semapv:LexicalMatching	0.7
+UBERON:0012615	umbilical smooth muscle	skos:exactMatch	BTO:0001847	umbilical smooth muscle	semapv:LexicalMatching	0.7
+UBERON:0013479	lung endothelium	skos:exactMatch	BTO:0004128	lung endothelium	semapv:LexicalMatching	0.7
+UBERON:0013694	brain endothelium	skos:exactMatch	BTO:0003248	brain endothelium	semapv:LexicalMatching	0.7
+UBERON:0013755	arterial blood	skos:exactMatch	BTO:0006188	arterial blood	semapv:LexicalMatching	0.7
+UBERON:0013756	venous blood	skos:exactMatch	BTO:0006187	venous blood	semapv:LexicalMatching	0.7
+UBERON:0016525	frontal lobe	skos:exactMatch	BTO:0000484	frontal lobe	semapv:LexicalMatching	0.7
+UBERON:0017654	buccal gland	skos:exactMatch	BTO:0005767	buccal gland	semapv:LexicalMatching	0.7
+UBERON:0019143	intramuscular adipose tissue	skos:exactMatch	BTO:0004043	intramuscular adipose tissue	semapv:LexicalMatching	0.7
+UBERON:0019189	carotid artery endothelium	skos:exactMatch	BTO:0004626	carotid artery endothelium	semapv:LexicalMatching	0.7
+UBERON:0019196	iliac artery endothelium	skos:exactMatch	BTO:0004661	iliac artery endothelium	semapv:LexicalMatching	0.7
+UBERON:0019204	skin epithelium	skos:exactMatch	BTO:0004382	skin epithelium	semapv:LexicalMatching	0.7
+UBERON:0035050	excretory duct	skos:exactMatch	BTO:0006341	excretory duct	semapv:LexicalMatching	0.7
+UBERON:0036217	coelomic fluid	skos:exactMatch	BTO:0001708	coelomic fluid	semapv:LexicalMatching	0.7
+UBERON:0036243	vaginal fluid	skos:exactMatch	BTO:0003084	vaginal fluid	semapv:LexicalMatching	0.7
+UBERON:8410037	high endothelial venule	skos:exactMatch	BTO:0004528	high endothelial venule	semapv:LexicalMatching	0.7
+UBERON:8450002	excretory system	skos:exactMatch	BTO:0006338	excretory system	semapv:LexicalMatching	0.7
+UBERON:8600038	placental disc	skos:exactMatch	BTO:0003678	placental disc	semapv:LexicalMatching	0.7
